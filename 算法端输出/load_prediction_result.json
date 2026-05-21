@@ -1,0 +1,3922 @@
+[
+  {
+    "floor": 1,
+    "time": "2026-05-12 17:00",
+    "current_load": 2840.0,
+    "predicted_load": 2914.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 17:30",
+    "current_load": 2417.2,
+    "predicted_load": 2266.6,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 18:00",
+    "current_load": 5556.3,
+    "predicted_load": 6414.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 18:30",
+    "current_load": 5096.9,
+    "predicted_load": 5849.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 19:00",
+    "current_load": 5616.4,
+    "predicted_load": 6682.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 19:30",
+    "current_load": 4816.6,
+    "predicted_load": 4570.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 20:00",
+    "current_load": 4581.5,
+    "predicted_load": 4409.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 20:30",
+    "current_load": 5296.4,
+    "predicted_load": 5189.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 21:00",
+    "current_load": 5499.2,
+    "predicted_load": 5726.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 21:30",
+    "current_load": 4530.9,
+    "predicted_load": 4514.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 22:00",
+    "current_load": 4449.6,
+    "predicted_load": 4167.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 22:30",
+    "current_load": 5806.0,
+    "predicted_load": 5908.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 23:00",
+    "current_load": 5081.8,
+    "predicted_load": 5265.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 23:30",
+    "current_load": 5140.8,
+    "predicted_load": 5371.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 17:00",
+    "current_load": 2427.2,
+    "predicted_load": 2314.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 17:30",
+    "current_load": 3026.7,
+    "predicted_load": 3128.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 18:00",
+    "current_load": 5404.4,
+    "predicted_load": 6291.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 18:30",
+    "current_load": 5414.4,
+    "predicted_load": 6410.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 19:00",
+    "current_load": 5745.3,
+    "predicted_load": 6651.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 19:30",
+    "current_load": 5638.1,
+    "predicted_load": 5716.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 20:00",
+    "current_load": 4643.7,
+    "predicted_load": 4386.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 20:30",
+    "current_load": 4941.9,
+    "predicted_load": 4674.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 21:00",
+    "current_load": 4663.3,
+    "predicted_load": 4338.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 21:30",
+    "current_load": 5266.7,
+    "predicted_load": 5474.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 22:00",
+    "current_load": 5347.1,
+    "predicted_load": 5482.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 22:30",
+    "current_load": 5188.4,
+    "predicted_load": 5363.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 23:00",
+    "current_load": 5214.0,
+    "predicted_load": 5196.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 23:30",
+    "current_load": 5421.2,
+    "predicted_load": 5445.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 17:00",
+    "current_load": 3335.7,
+    "predicted_load": 3737.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 17:30",
+    "current_load": 2892.6,
+    "predicted_load": 2994.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 18:00",
+    "current_load": 5491.0,
+    "predicted_load": 6436.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 18:30",
+    "current_load": 5074.9,
+    "predicted_load": 5654.6,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 19:00",
+    "current_load": 4804.6,
+    "predicted_load": 5441.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 19:30",
+    "current_load": 5465.5,
+    "predicted_load": 5457.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 20:00",
+    "current_load": 5171.7,
+    "predicted_load": 5204.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 20:30",
+    "current_load": 5507.1,
+    "predicted_load": 5741.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 21:00",
+    "current_load": 4498.5,
+    "predicted_load": 4176.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 21:30",
+    "current_load": 5347.8,
+    "predicted_load": 5406.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 22:00",
+    "current_load": 5675.1,
+    "predicted_load": 5731.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 22:30",
+    "current_load": 4921.9,
+    "predicted_load": 5063.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 23:00",
+    "current_load": 5533.0,
+    "predicted_load": 5594.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 23:30",
+    "current_load": 5023.5,
+    "predicted_load": 4806.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 17:00",
+    "current_load": 2179.8,
+    "predicted_load": 2310.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 17:30",
+    "current_load": 2921.7,
+    "predicted_load": 3040.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 18:00",
+    "current_load": 5639.2,
+    "predicted_load": 6658.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 18:30",
+    "current_load": 5817.1,
+    "predicted_load": 7029.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 19:00",
+    "current_load": 5991.2,
+    "predicted_load": 7014.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 19:30",
+    "current_load": 5460.2,
+    "predicted_load": 5400.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 20:00",
+    "current_load": 5349.3,
+    "predicted_load": 5193.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 20:30",
+    "current_load": 4963.8,
+    "predicted_load": 4621.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 21:00",
+    "current_load": 5439.4,
+    "predicted_load": 5432.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 21:30",
+    "current_load": 5116.0,
+    "predicted_load": 5038.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 22:00",
+    "current_load": 5105.7,
+    "predicted_load": 5153.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 22:30",
+    "current_load": 5299.7,
+    "predicted_load": 5253.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 23:00",
+    "current_load": 5746.2,
+    "predicted_load": 5956.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 23:30",
+    "current_load": 5251.6,
+    "predicted_load": 5300.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 17:00",
+    "current_load": 2605.9,
+    "predicted_load": 2458.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 17:30",
+    "current_load": 2640.3,
+    "predicted_load": 2613.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 18:00",
+    "current_load": 5500.3,
+    "predicted_load": 6474.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 18:30",
+    "current_load": 4561.2,
+    "predicted_load": 5213.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 19:00",
+    "current_load": 5418.6,
+    "predicted_load": 6344.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 19:30",
+    "current_load": 5895.6,
+    "predicted_load": 6027.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 20:00",
+    "current_load": 5129.3,
+    "predicted_load": 5318.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 20:30",
+    "current_load": 5439.9,
+    "predicted_load": 5447.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 21:00",
+    "current_load": 5555.8,
+    "predicted_load": 5442.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 21:30",
+    "current_load": 5360.3,
+    "predicted_load": 5437.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 22:00",
+    "current_load": 5234.4,
+    "predicted_load": 5165.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 22:30",
+    "current_load": 4968.4,
+    "predicted_load": 4772.6,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 23:00",
+    "current_load": 4969.5,
+    "predicted_load": 4839.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 23:30",
+    "current_load": 5197.4,
+    "predicted_load": 5185.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 17:00",
+    "current_load": 2996.1,
+    "predicted_load": 3094.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 17:30",
+    "current_load": 2795.9,
+    "predicted_load": 2763.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 18:00",
+    "current_load": 6182.0,
+    "predicted_load": 7281.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 18:30",
+    "current_load": 4911.4,
+    "predicted_load": 5549.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 19:00",
+    "current_load": 5811.4,
+    "predicted_load": 6816.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 19:30",
+    "current_load": 5522.4,
+    "predicted_load": 5302.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 20:00",
+    "current_load": 5225.0,
+    "predicted_load": 5329.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 20:30",
+    "current_load": 4812.7,
+    "predicted_load": 4479.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 21:00",
+    "current_load": 5864.4,
+    "predicted_load": 5978.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 21:30",
+    "current_load": 4941.9,
+    "predicted_load": 4847.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 22:00",
+    "current_load": 5058.3,
+    "predicted_load": 5140.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 22:30",
+    "current_load": 5306.9,
+    "predicted_load": 5121.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 23:00",
+    "current_load": 5419.8,
+    "predicted_load": 5579.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 23:30",
+    "current_load": 4897.5,
+    "predicted_load": 4843.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 17:00",
+    "current_load": 2472.4,
+    "predicted_load": 2349.6,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 17:30",
+    "current_load": 3099.1,
+    "predicted_load": 3368.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 18:00",
+    "current_load": 5362.6,
+    "predicted_load": 6206.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 18:30",
+    "current_load": 5462.8,
+    "predicted_load": 6459.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 19:00",
+    "current_load": 5393.8,
+    "predicted_load": 6158.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 19:30",
+    "current_load": 5037.3,
+    "predicted_load": 4928.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 20:00",
+    "current_load": 5367.1,
+    "predicted_load": 5335.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 20:30",
+    "current_load": 4369.0,
+    "predicted_load": 4027.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 21:00",
+    "current_load": 4819.4,
+    "predicted_load": 4746.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 21:30",
+    "current_load": 5764.4,
+    "predicted_load": 5896.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 22:00",
+    "current_load": 4759.1,
+    "predicted_load": 4889.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 22:30",
+    "current_load": 5254.7,
+    "predicted_load": 5399.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 23:00",
+    "current_load": 6083.4,
+    "predicted_load": 6189.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 23:30",
+    "current_load": 4743.4,
+    "predicted_load": 4738.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 17:00",
+    "current_load": 4514.2,
+    "predicted_load": 4551.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 17:30",
+    "current_load": 2830.0,
+    "predicted_load": 2257.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 18:00",
+    "current_load": 7553.3,
+    "predicted_load": 8643.5,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 18:30",
+    "current_load": 8636.2,
+    "predicted_load": 10010.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 19:00",
+    "current_load": 8330.3,
+    "predicted_load": 10163.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 19:30",
+    "current_load": 8966.1,
+    "predicted_load": 9437.0,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 20:00",
+    "current_load": 7769.5,
+    "predicted_load": 7480.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 20:30",
+    "current_load": 8965.4,
+    "predicted_load": 9177.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 21:00",
+    "current_load": 9161.2,
+    "predicted_load": 9226.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 21:30",
+    "current_load": 9499.2,
+    "predicted_load": 10075.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 22:00",
+    "current_load": 8728.6,
+    "predicted_load": 8649.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 22:30",
+    "current_load": 8022.8,
+    "predicted_load": 7643.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 23:00",
+    "current_load": 8642.4,
+    "predicted_load": 8356.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 23:30",
+    "current_load": 9121.7,
+    "predicted_load": 9252.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 17:00",
+    "current_load": 2636.7,
+    "predicted_load": 2458.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 17:30",
+    "current_load": 2828.1,
+    "predicted_load": 2831.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 18:00",
+    "current_load": 8178.8,
+    "predicted_load": 9330.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 18:30",
+    "current_load": 8475.0,
+    "predicted_load": 10421.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 19:00",
+    "current_load": 8894.2,
+    "predicted_load": 10916.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 19:30",
+    "current_load": 8586.8,
+    "predicted_load": 8722.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 20:00",
+    "current_load": 8586.6,
+    "predicted_load": 8623.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 20:30",
+    "current_load": 8519.2,
+    "predicted_load": 8394.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 21:00",
+    "current_load": 8121.2,
+    "predicted_load": 7966.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 21:30",
+    "current_load": 8631.3,
+    "predicted_load": 8646.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 22:00",
+    "current_load": 9848.7,
+    "predicted_load": 10291.9,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 22:30",
+    "current_load": 9053.5,
+    "predicted_load": 9364.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 23:00",
+    "current_load": 8161.2,
+    "predicted_load": 8004.5,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 23:30",
+    "current_load": 8895.7,
+    "predicted_load": 8578.0,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 17:00",
+    "current_load": 3057.0,
+    "predicted_load": 2680.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 17:30",
+    "current_load": 4561.8,
+    "predicted_load": 4697.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 18:00",
+    "current_load": 8308.1,
+    "predicted_load": 10206.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 18:30",
+    "current_load": 8705.0,
+    "predicted_load": 10587.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 19:00",
+    "current_load": 8877.0,
+    "predicted_load": 10315.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 19:30",
+    "current_load": 7797.2,
+    "predicted_load": 7626.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 20:00",
+    "current_load": 9612.3,
+    "predicted_load": 9914.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 20:30",
+    "current_load": 8375.6,
+    "predicted_load": 8208.5,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 21:00",
+    "current_load": 8108.9,
+    "predicted_load": 8212.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 21:30",
+    "current_load": 8619.8,
+    "predicted_load": 8289.0,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 22:00",
+    "current_load": 8424.8,
+    "predicted_load": 8441.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 22:30",
+    "current_load": 8444.1,
+    "predicted_load": 8555.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 23:00",
+    "current_load": 8374.2,
+    "predicted_load": 8292.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 23:30",
+    "current_load": 8814.9,
+    "predicted_load": 8944.9,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 17:00",
+    "current_load": 4202.6,
+    "predicted_load": 4621.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 17:30",
+    "current_load": 4314.9,
+    "predicted_load": 4839.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 18:00",
+    "current_load": 7796.3,
+    "predicted_load": 9138.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 18:30",
+    "current_load": 8317.1,
+    "predicted_load": 9688.6,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 19:00",
+    "current_load": 7848.8,
+    "predicted_load": 9026.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 19:30",
+    "current_load": 8702.4,
+    "predicted_load": 9004.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 20:00",
+    "current_load": 8282.1,
+    "predicted_load": 8270.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 20:30",
+    "current_load": 7917.0,
+    "predicted_load": 7939.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 21:00",
+    "current_load": 9502.4,
+    "predicted_load": 9769.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 21:30",
+    "current_load": 8788.5,
+    "predicted_load": 8957.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 22:00",
+    "current_load": 8237.4,
+    "predicted_load": 8344.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 22:30",
+    "current_load": 8102.3,
+    "predicted_load": 7635.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 23:00",
+    "current_load": 7405.7,
+    "predicted_load": 6944.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 23:30",
+    "current_load": 8324.0,
+    "predicted_load": 8352.9,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 17:00",
+    "current_load": 3951.0,
+    "predicted_load": 3926.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 17:30",
+    "current_load": 3049.6,
+    "predicted_load": 3172.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 18:00",
+    "current_load": 8208.4,
+    "predicted_load": 9901.5,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 18:30",
+    "current_load": 9175.7,
+    "predicted_load": 10917.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 19:00",
+    "current_load": 9468.8,
+    "predicted_load": 11608.5,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 19:30",
+    "current_load": 8472.1,
+    "predicted_load": 8560.0,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 20:00",
+    "current_load": 8582.7,
+    "predicted_load": 8385.0,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 20:30",
+    "current_load": 7734.6,
+    "predicted_load": 7156.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 21:00",
+    "current_load": 8527.3,
+    "predicted_load": 8545.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 21:30",
+    "current_load": 9058.0,
+    "predicted_load": 9216.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 22:00",
+    "current_load": 8341.1,
+    "predicted_load": 8543.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 22:30",
+    "current_load": 7339.9,
+    "predicted_load": 6944.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 23:00",
+    "current_load": 8438.7,
+    "predicted_load": 8232.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 23:30",
+    "current_load": 9451.9,
+    "predicted_load": 9822.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 17:00",
+    "current_load": 3433.0,
+    "predicted_load": 3889.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 17:30",
+    "current_load": 4045.8,
+    "predicted_load": 4288.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 18:00",
+    "current_load": 6999.4,
+    "predicted_load": 7969.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 18:30",
+    "current_load": 8774.3,
+    "predicted_load": 10554.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 19:00",
+    "current_load": 6931.8,
+    "predicted_load": 7893.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 19:30",
+    "current_load": 7669.4,
+    "predicted_load": 7892.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 20:00",
+    "current_load": 8692.4,
+    "predicted_load": 8665.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 20:30",
+    "current_load": 10066.8,
+    "predicted_load": 11111.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 21:00",
+    "current_load": 8999.0,
+    "predicted_load": 9442.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 21:30",
+    "current_load": 8777.6,
+    "predicted_load": 8806.0,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 22:00",
+    "current_load": 8041.4,
+    "predicted_load": 7366.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 22:30",
+    "current_load": 7424.3,
+    "predicted_load": 6899.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 23:00",
+    "current_load": 7476.0,
+    "predicted_load": 7042.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 23:30",
+    "current_load": 8245.0,
+    "predicted_load": 8312.9,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 17:00",
+    "current_load": 4024.2,
+    "predicted_load": 4310.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 17:30",
+    "current_load": 2792.8,
+    "predicted_load": 2858.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 18:00",
+    "current_load": 7098.3,
+    "predicted_load": 8639.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 18:30",
+    "current_load": 10166.3,
+    "predicted_load": 12213.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 19:00",
+    "current_load": 9914.9,
+    "predicted_load": 12288.9,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 19:30",
+    "current_load": 9251.0,
+    "predicted_load": 9968.6,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 20:00",
+    "current_load": 8718.2,
+    "predicted_load": 8235.5,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 20:30",
+    "current_load": 8998.7,
+    "predicted_load": 8693.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 21:00",
+    "current_load": 8931.7,
+    "predicted_load": 8825.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 21:30",
+    "current_load": 8264.1,
+    "predicted_load": 8112.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 22:00",
+    "current_load": 8393.5,
+    "predicted_load": 8191.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 22:30",
+    "current_load": 8627.7,
+    "predicted_load": 8526.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 23:00",
+    "current_load": 9212.8,
+    "predicted_load": 9529.0,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 23:30",
+    "current_load": 9013.0,
+    "predicted_load": 9219.5,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 17:00",
+    "current_load": 4233.2,
+    "predicted_load": 4320.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 17:30",
+    "current_load": 3809.3,
+    "predicted_load": 3746.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 18:00",
+    "current_load": 6957.9,
+    "predicted_load": 8081.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 18:30",
+    "current_load": 7066.6,
+    "predicted_load": 8011.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 19:00",
+    "current_load": 7641.7,
+    "predicted_load": 8919.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 19:30",
+    "current_load": 7461.2,
+    "predicted_load": 7629.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 20:00",
+    "current_load": 7487.2,
+    "predicted_load": 7627.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 20:30",
+    "current_load": 6834.8,
+    "predicted_load": 6565.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 21:00",
+    "current_load": 8011.8,
+    "predicted_load": 8195.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 21:30",
+    "current_load": 7614.0,
+    "predicted_load": 7656.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 22:00",
+    "current_load": 6564.9,
+    "predicted_load": 6474.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 22:30",
+    "current_load": 6929.4,
+    "predicted_load": 6568.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 23:00",
+    "current_load": 7556.4,
+    "predicted_load": 7537.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 23:30",
+    "current_load": 7687.3,
+    "predicted_load": 8061.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 17:00",
+    "current_load": 3933.2,
+    "predicted_load": 3951.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 17:30",
+    "current_load": 3592.1,
+    "predicted_load": 3618.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 18:00",
+    "current_load": 6937.5,
+    "predicted_load": 7912.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 18:30",
+    "current_load": 6796.2,
+    "predicted_load": 7750.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 19:00",
+    "current_load": 7609.9,
+    "predicted_load": 8949.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 19:30",
+    "current_load": 7503.2,
+    "predicted_load": 7691.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 20:00",
+    "current_load": 7782.4,
+    "predicted_load": 8111.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 20:30",
+    "current_load": 7554.1,
+    "predicted_load": 7535.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 21:00",
+    "current_load": 7799.4,
+    "predicted_load": 7898.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 21:30",
+    "current_load": 6247.2,
+    "predicted_load": 5735.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 22:00",
+    "current_load": 7689.9,
+    "predicted_load": 7735.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 22:30",
+    "current_load": 7450.1,
+    "predicted_load": 7333.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 23:00",
+    "current_load": 7728.1,
+    "predicted_load": 8221.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 23:30",
+    "current_load": 6515.4,
+    "predicted_load": 6123.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 17:00",
+    "current_load": 3715.2,
+    "predicted_load": 3605.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 17:30",
+    "current_load": 3747.3,
+    "predicted_load": 3477.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 18:00",
+    "current_load": 7722.9,
+    "predicted_load": 9024.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 18:30",
+    "current_load": 8038.1,
+    "predicted_load": 9479.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 19:00",
+    "current_load": 6650.1,
+    "predicted_load": 7617.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 19:30",
+    "current_load": 7055.5,
+    "predicted_load": 6833.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 20:00",
+    "current_load": 6808.7,
+    "predicted_load": 6398.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 20:30",
+    "current_load": 6499.6,
+    "predicted_load": 6449.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 21:00",
+    "current_load": 7326.2,
+    "predicted_load": 7416.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 21:30",
+    "current_load": 5977.3,
+    "predicted_load": 5700.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 22:00",
+    "current_load": 7070.3,
+    "predicted_load": 7260.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 22:30",
+    "current_load": 8048.8,
+    "predicted_load": 8289.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 23:00",
+    "current_load": 7745.6,
+    "predicted_load": 8335.0,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 23:30",
+    "current_load": 6856.9,
+    "predicted_load": 6785.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 17:00",
+    "current_load": 3565.8,
+    "predicted_load": 3313.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 17:30",
+    "current_load": 3550.9,
+    "predicted_load": 3376.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 18:00",
+    "current_load": 6744.5,
+    "predicted_load": 7741.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 18:30",
+    "current_load": 6885.4,
+    "predicted_load": 7991.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 19:00",
+    "current_load": 7788.7,
+    "predicted_load": 9201.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 19:30",
+    "current_load": 6341.4,
+    "predicted_load": 6207.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 20:00",
+    "current_load": 7548.5,
+    "predicted_load": 7769.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 20:30",
+    "current_load": 6852.5,
+    "predicted_load": 6540.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 21:00",
+    "current_load": 6695.9,
+    "predicted_load": 6814.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 21:30",
+    "current_load": 7743.1,
+    "predicted_load": 7808.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 22:00",
+    "current_load": 6284.5,
+    "predicted_load": 6095.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 22:30",
+    "current_load": 7754.7,
+    "predicted_load": 8107.6,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 23:00",
+    "current_load": 6448.5,
+    "predicted_load": 6017.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 23:30",
+    "current_load": 7047.9,
+    "predicted_load": 7302.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 17:00",
+    "current_load": 3668.5,
+    "predicted_load": 3660.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 17:30",
+    "current_load": 3787.8,
+    "predicted_load": 3805.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 18:00",
+    "current_load": 6932.6,
+    "predicted_load": 8002.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 18:30",
+    "current_load": 7073.4,
+    "predicted_load": 8208.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 19:00",
+    "current_load": 7098.0,
+    "predicted_load": 8201.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 19:30",
+    "current_load": 7217.7,
+    "predicted_load": 7312.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 20:00",
+    "current_load": 7872.4,
+    "predicted_load": 8138.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 20:30",
+    "current_load": 7781.7,
+    "predicted_load": 8009.6,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 21:00",
+    "current_load": 7647.4,
+    "predicted_load": 7790.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 21:30",
+    "current_load": 8343.0,
+    "predicted_load": 8499.9,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 22:00",
+    "current_load": 6938.4,
+    "predicted_load": 6657.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 22:30",
+    "current_load": 7327.9,
+    "predicted_load": 7221.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 23:00",
+    "current_load": 7544.9,
+    "predicted_load": 7278.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 23:30",
+    "current_load": 7453.3,
+    "predicted_load": 7624.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 17:00",
+    "current_load": 4070.9,
+    "predicted_load": 4104.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 17:30",
+    "current_load": 4180.5,
+    "predicted_load": 4218.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 18:00",
+    "current_load": 6987.3,
+    "predicted_load": 8149.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 18:30",
+    "current_load": 7324.4,
+    "predicted_load": 8408.9,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 19:00",
+    "current_load": 6968.4,
+    "predicted_load": 7897.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 19:30",
+    "current_load": 7019.7,
+    "predicted_load": 7030.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 20:00",
+    "current_load": 7408.3,
+    "predicted_load": 7436.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 20:30",
+    "current_load": 6783.4,
+    "predicted_load": 6721.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 21:00",
+    "current_load": 6691.8,
+    "predicted_load": 6582.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 21:30",
+    "current_load": 7277.4,
+    "predicted_load": 7233.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 22:00",
+    "current_load": 7716.2,
+    "predicted_load": 8027.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 22:30",
+    "current_load": 6767.2,
+    "predicted_load": 6792.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 23:00",
+    "current_load": 7340.1,
+    "predicted_load": 7361.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 23:30",
+    "current_load": 7664.6,
+    "predicted_load": 7647.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 17:00",
+    "current_load": 3579.5,
+    "predicted_load": 3643.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 17:30",
+    "current_load": 3763.2,
+    "predicted_load": 3661.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 18:00",
+    "current_load": 7514.4,
+    "predicted_load": 8693.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 18:30",
+    "current_load": 7289.5,
+    "predicted_load": 8526.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 19:00",
+    "current_load": 7007.5,
+    "predicted_load": 8088.9,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 19:30",
+    "current_load": 8005.4,
+    "predicted_load": 8169.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 20:00",
+    "current_load": 7838.5,
+    "predicted_load": 8021.5,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 20:30",
+    "current_load": 7650.6,
+    "predicted_load": 7865.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 21:00",
+    "current_load": 6367.4,
+    "predicted_load": 5821.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 21:30",
+    "current_load": 6756.8,
+    "predicted_load": 6396.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 22:00",
+    "current_load": 7601.3,
+    "predicted_load": 7584.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 22:30",
+    "current_load": 8173.6,
+    "predicted_load": 8775.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 23:00",
+    "current_load": 7164.9,
+    "predicted_load": 7300.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 23:30",
+    "current_load": 7915.6,
+    "predicted_load": 8020.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 17:00",
+    "current_load": 2846.4,
+    "predicted_load": 2870.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 17:30",
+    "current_load": 2776.4,
+    "predicted_load": 2947.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 18:00",
+    "current_load": 5197.7,
+    "predicted_load": 6008.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 18:30",
+    "current_load": 5733.8,
+    "predicted_load": 6696.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 19:00",
+    "current_load": 5103.8,
+    "predicted_load": 5879.6,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 19:30",
+    "current_load": 4992.5,
+    "predicted_load": 4924.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 20:00",
+    "current_load": 5041.8,
+    "predicted_load": 4811.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 20:30",
+    "current_load": 5569.7,
+    "predicted_load": 5725.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 21:00",
+    "current_load": 6322.5,
+    "predicted_load": 6765.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 21:30",
+    "current_load": 5329.6,
+    "predicted_load": 5425.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 22:00",
+    "current_load": 6266.4,
+    "predicted_load": 6498.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 22:30",
+    "current_load": 5211.0,
+    "predicted_load": 4840.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 23:00",
+    "current_load": 4893.5,
+    "predicted_load": 4748.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 23:30",
+    "current_load": 4723.1,
+    "predicted_load": 4208.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 17:00",
+    "current_load": 2661.6,
+    "predicted_load": 2648.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 17:30",
+    "current_load": 2961.7,
+    "predicted_load": 3004.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 18:00",
+    "current_load": 5176.8,
+    "predicted_load": 5969.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 18:30",
+    "current_load": 5351.9,
+    "predicted_load": 6248.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 19:00",
+    "current_load": 5860.7,
+    "predicted_load": 6827.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 19:30",
+    "current_load": 4788.7,
+    "predicted_load": 4659.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 20:00",
+    "current_load": 4846.6,
+    "predicted_load": 4678.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 20:30",
+    "current_load": 5001.7,
+    "predicted_load": 4715.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 21:00",
+    "current_load": 5076.3,
+    "predicted_load": 5172.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 21:30",
+    "current_load": 5316.0,
+    "predicted_load": 5472.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 22:00",
+    "current_load": 4940.5,
+    "predicted_load": 4920.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 22:30",
+    "current_load": 4721.2,
+    "predicted_load": 4602.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 23:00",
+    "current_load": 4995.1,
+    "predicted_load": 4888.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 23:30",
+    "current_load": 5799.5,
+    "predicted_load": 6085.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 17:00",
+    "current_load": 2624.2,
+    "predicted_load": 2489.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 17:30",
+    "current_load": 2156.2,
+    "predicted_load": 2023.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 18:00",
+    "current_load": 4984.6,
+    "predicted_load": 5760.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 18:30",
+    "current_load": 5025.0,
+    "predicted_load": 5825.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 19:00",
+    "current_load": 5475.4,
+    "predicted_load": 6581.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 19:30",
+    "current_load": 5953.2,
+    "predicted_load": 6276.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 20:00",
+    "current_load": 5427.4,
+    "predicted_load": 5561.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 20:30",
+    "current_load": 6078.1,
+    "predicted_load": 6279.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 21:00",
+    "current_load": 4554.3,
+    "predicted_load": 4088.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 21:30",
+    "current_load": 5346.9,
+    "predicted_load": 5320.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 22:00",
+    "current_load": 4539.9,
+    "predicted_load": 4027.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 22:30",
+    "current_load": 5561.5,
+    "predicted_load": 5897.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 23:00",
+    "current_load": 5486.6,
+    "predicted_load": 5533.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 23:30",
+    "current_load": 5054.3,
+    "predicted_load": 5225.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 17:00",
+    "current_load": 2582.0,
+    "predicted_load": 2468.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 17:30",
+    "current_load": 2190.5,
+    "predicted_load": 2080.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 18:00",
+    "current_load": 5241.1,
+    "predicted_load": 6089.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 18:30",
+    "current_load": 5157.3,
+    "predicted_load": 6015.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 19:00",
+    "current_load": 5901.9,
+    "predicted_load": 7139.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 19:30",
+    "current_load": 5196.0,
+    "predicted_load": 5181.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 20:00",
+    "current_load": 5337.2,
+    "predicted_load": 5397.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 20:30",
+    "current_load": 5666.4,
+    "predicted_load": 5587.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 21:00",
+    "current_load": 5622.9,
+    "predicted_load": 5765.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 21:30",
+    "current_load": 5120.4,
+    "predicted_load": 5048.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 22:00",
+    "current_load": 5183.4,
+    "predicted_load": 5022.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 22:30",
+    "current_load": 5292.6,
+    "predicted_load": 5182.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 23:00",
+    "current_load": 5790.4,
+    "predicted_load": 6013.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 23:30",
+    "current_load": 5402.9,
+    "predicted_load": 5476.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 17:00",
+    "current_load": 2796.8,
+    "predicted_load": 2939.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 17:30",
+    "current_load": 2699.5,
+    "predicted_load": 2615.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 18:00",
+    "current_load": 5546.3,
+    "predicted_load": 6561.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 18:30",
+    "current_load": 5432.0,
+    "predicted_load": 6310.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 19:00",
+    "current_load": 5094.8,
+    "predicted_load": 5893.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 19:30",
+    "current_load": 5508.6,
+    "predicted_load": 5496.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 20:00",
+    "current_load": 5448.0,
+    "predicted_load": 5453.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 20:30",
+    "current_load": 4692.1,
+    "predicted_load": 4557.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 21:00",
+    "current_load": 5523.3,
+    "predicted_load": 5528.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 21:30",
+    "current_load": 6215.8,
+    "predicted_load": 6471.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 22:00",
+    "current_load": 5162.9,
+    "predicted_load": 5319.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 22:30",
+    "current_load": 5900.5,
+    "predicted_load": 6026.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 23:00",
+    "current_load": 5887.1,
+    "predicted_load": 5777.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 23:30",
+    "current_load": 5236.8,
+    "predicted_load": 5261.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 17:00",
+    "current_load": 2350.2,
+    "predicted_load": 2230.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 17:30",
+    "current_load": 2598.8,
+    "predicted_load": 2617.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 18:00",
+    "current_load": 5468.3,
+    "predicted_load": 6544.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 18:30",
+    "current_load": 5505.8,
+    "predicted_load": 6557.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 19:00",
+    "current_load": 5616.3,
+    "predicted_load": 6622.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 19:30",
+    "current_load": 5309.2,
+    "predicted_load": 5256.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 20:00",
+    "current_load": 5077.1,
+    "predicted_load": 4934.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 20:30",
+    "current_load": 5954.8,
+    "predicted_load": 6067.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 21:00",
+    "current_load": 5286.3,
+    "predicted_load": 5278.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 21:30",
+    "current_load": 5324.0,
+    "predicted_load": 5406.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 22:00",
+    "current_load": 5690.8,
+    "predicted_load": 5602.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 22:30",
+    "current_load": 5913.7,
+    "predicted_load": 6122.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 23:00",
+    "current_load": 5703.1,
+    "predicted_load": 5829.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 23:30",
+    "current_load": 4631.3,
+    "predicted_load": 4278.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 17:00",
+    "current_load": 2945.0,
+    "predicted_load": 3073.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 17:30",
+    "current_load": 2714.4,
+    "predicted_load": 2795.6,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 18:00",
+    "current_load": 5511.9,
+    "predicted_load": 6460.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 18:30",
+    "current_load": 5806.7,
+    "predicted_load": 6760.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 19:00",
+    "current_load": 5858.8,
+    "predicted_load": 6906.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 19:30",
+    "current_load": 5059.7,
+    "predicted_load": 4909.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 20:00",
+    "current_load": 5033.6,
+    "predicted_load": 4775.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 20:30",
+    "current_load": 5159.4,
+    "predicted_load": 4926.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 21:00",
+    "current_load": 5312.8,
+    "predicted_load": 5397.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 21:30",
+    "current_load": 4276.8,
+    "predicted_load": 4024.5,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 22:00",
+    "current_load": 5716.9,
+    "predicted_load": 5902.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 22:30",
+    "current_load": 6280.0,
+    "predicted_load": 6602.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 23:00",
+    "current_load": 4963.5,
+    "predicted_load": 5192.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 23:30",
+    "current_load": 5216.2,
+    "predicted_load": 5049.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 17:00",
+    "current_load": 3698.1,
+    "predicted_load": 3513.6,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 17:30",
+    "current_load": 3292.9,
+    "predicted_load": 3579.8,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 18:00",
+    "current_load": 6912.8,
+    "predicted_load": 8245.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 18:30",
+    "current_load": 7856.1,
+    "predicted_load": 9242.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 19:00",
+    "current_load": 7410.8,
+    "predicted_load": 8783.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 19:30",
+    "current_load": 6861.5,
+    "predicted_load": 6844.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 20:00",
+    "current_load": 7215.8,
+    "predicted_load": 7002.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 20:30",
+    "current_load": 6693.2,
+    "predicted_load": 6454.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 21:00",
+    "current_load": 6926.3,
+    "predicted_load": 6947.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 21:30",
+    "current_load": 6759.5,
+    "predicted_load": 6607.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 22:00",
+    "current_load": 6391.8,
+    "predicted_load": 6291.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 22:30",
+    "current_load": 7057.5,
+    "predicted_load": 7101.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 23:00",
+    "current_load": 7096.0,
+    "predicted_load": 7208.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 23:30",
+    "current_load": 6943.9,
+    "predicted_load": 7127.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 17:00",
+    "current_load": 4449.4,
+    "predicted_load": 5083.7,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 17:30",
+    "current_load": 3837.4,
+    "predicted_load": 4201.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 18:00",
+    "current_load": 6903.4,
+    "predicted_load": 7765.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 18:30",
+    "current_load": 6768.6,
+    "predicted_load": 7541.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 19:00",
+    "current_load": 7083.2,
+    "predicted_load": 8165.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 19:30",
+    "current_load": 6943.9,
+    "predicted_load": 6957.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 20:00",
+    "current_load": 7391.3,
+    "predicted_load": 7598.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 20:30",
+    "current_load": 6844.2,
+    "predicted_load": 6764.5,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 21:00",
+    "current_load": 7549.5,
+    "predicted_load": 7751.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 21:30",
+    "current_load": 7239.1,
+    "predicted_load": 7188.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 22:00",
+    "current_load": 7243.3,
+    "predicted_load": 7376.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 22:30",
+    "current_load": 6338.2,
+    "predicted_load": 5934.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 23:00",
+    "current_load": 6565.2,
+    "predicted_load": 6340.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 23:30",
+    "current_load": 5690.8,
+    "predicted_load": 5173.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 17:00",
+    "current_load": 2996.8,
+    "predicted_load": 2950.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 17:30",
+    "current_load": 2541.7,
+    "predicted_load": 2056.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 18:00",
+    "current_load": 6214.3,
+    "predicted_load": 7330.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 18:30",
+    "current_load": 6982.5,
+    "predicted_load": 8311.1,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 19:00",
+    "current_load": 5736.1,
+    "predicted_load": 6800.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 19:30",
+    "current_load": 7178.0,
+    "predicted_load": 7499.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 20:00",
+    "current_load": 7365.9,
+    "predicted_load": 7493.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 20:30",
+    "current_load": 7906.9,
+    "predicted_load": 8630.5,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 21:00",
+    "current_load": 6361.1,
+    "predicted_load": 6088.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 21:30",
+    "current_load": 6668.4,
+    "predicted_load": 6435.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 22:00",
+    "current_load": 5732.3,
+    "predicted_load": 5007.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 22:30",
+    "current_load": 6251.1,
+    "predicted_load": 6214.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 23:00",
+    "current_load": 6436.6,
+    "predicted_load": 6359.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 23:30",
+    "current_load": 6767.1,
+    "predicted_load": 7112.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 17:00",
+    "current_load": 2735.1,
+    "predicted_load": 2608.6,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 17:30",
+    "current_load": 3946.3,
+    "predicted_load": 3845.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 18:00",
+    "current_load": 7846.0,
+    "predicted_load": 9544.3,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 18:30",
+    "current_load": 6284.8,
+    "predicted_load": 7468.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 19:00",
+    "current_load": 7163.2,
+    "predicted_load": 8235.5,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 19:30",
+    "current_load": 6457.3,
+    "predicted_load": 5994.4,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 20:00",
+    "current_load": 6361.9,
+    "predicted_load": 6387.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 20:30",
+    "current_load": 7612.1,
+    "predicted_load": 7761.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 21:00",
+    "current_load": 6754.0,
+    "predicted_load": 6852.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 21:30",
+    "current_load": 7413.6,
+    "predicted_load": 7764.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 22:00",
+    "current_load": 6509.8,
+    "predicted_load": 6142.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 22:30",
+    "current_load": 5878.0,
+    "predicted_load": 5586.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 23:00",
+    "current_load": 6893.2,
+    "predicted_load": 6719.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 23:30",
+    "current_load": 6881.4,
+    "predicted_load": 7005.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 17:00",
+    "current_load": 4628.4,
+    "predicted_load": 4896.3,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 17:30",
+    "current_load": 4050.1,
+    "predicted_load": 4502.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 18:00",
+    "current_load": 6253.0,
+    "predicted_load": 7345.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 18:30",
+    "current_load": 7364.7,
+    "predicted_load": 8276.8,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 19:00",
+    "current_load": 6492.3,
+    "predicted_load": 7306.4,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 19:30",
+    "current_load": 7998.0,
+    "predicted_load": 8579.7,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 20:00",
+    "current_load": 6846.4,
+    "predicted_load": 6673.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 20:30",
+    "current_load": 7281.7,
+    "predicted_load": 7544.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 21:00",
+    "current_load": 7571.7,
+    "predicted_load": 7429.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 21:30",
+    "current_load": 7091.3,
+    "predicted_load": 7172.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 22:00",
+    "current_load": 7704.2,
+    "predicted_load": 7845.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 22:30",
+    "current_load": 7062.8,
+    "predicted_load": 6893.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 23:00",
+    "current_load": 6505.3,
+    "predicted_load": 6310.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 23:30",
+    "current_load": 7133.2,
+    "predicted_load": 6942.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 17:00",
+    "current_load": 2590.9,
+    "predicted_load": 2706.1,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 17:30",
+    "current_load": 3823.1,
+    "predicted_load": 3806.2,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 18:00",
+    "current_load": 6417.1,
+    "predicted_load": 6978.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 18:30",
+    "current_load": 5969.0,
+    "predicted_load": 7095.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 19:00",
+    "current_load": 6747.5,
+    "predicted_load": 7722.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 19:30",
+    "current_load": 7965.0,
+    "predicted_load": 8481.0,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 20:00",
+    "current_load": 6916.7,
+    "predicted_load": 7232.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 20:30",
+    "current_load": 6951.8,
+    "predicted_load": 7019.9,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 21:00",
+    "current_load": 6779.8,
+    "predicted_load": 6384.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 21:30",
+    "current_load": 6264.6,
+    "predicted_load": 6047.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 22:00",
+    "current_load": 7510.0,
+    "predicted_load": 7696.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 22:30",
+    "current_load": 7560.8,
+    "predicted_load": 7821.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 23:00",
+    "current_load": 6903.3,
+    "predicted_load": 7116.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 23:30",
+    "current_load": 6411.0,
+    "predicted_load": 6044.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 17:00",
+    "current_load": 2388.7,
+    "predicted_load": 2332.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 17:30",
+    "current_load": 4668.6,
+    "predicted_load": 4955.0,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 18:00",
+    "current_load": 7163.8,
+    "predicted_load": 8661.4,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 18:30",
+    "current_load": 6607.1,
+    "predicted_load": 8013.2,
+    "risk_level": "高",
+    "suggestion": "预计该楼层未来30分钟进入用电高峰，建议提前进行负载预警。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 19:00",
+    "current_load": 7145.9,
+    "predicted_load": 7971.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 19:30",
+    "current_load": 6287.1,
+    "predicted_load": 5994.9,
+    "risk_level": "低",
+    "suggestion": "预计负载保持稳定。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 20:00",
+    "current_load": 7030.5,
+    "predicted_load": 7171.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 20:30",
+    "current_load": 6705.2,
+    "predicted_load": 6558.3,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 21:00",
+    "current_load": 7395.3,
+    "predicted_load": 7764.7,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 21:30",
+    "current_load": 6333.1,
+    "predicted_load": 6100.6,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 22:00",
+    "current_load": 6198.9,
+    "predicted_load": 6030.1,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 22:30",
+    "current_load": 6756.8,
+    "predicted_load": 6544.0,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 23:00",
+    "current_load": 7095.9,
+    "predicted_load": 7350.2,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 23:30",
+    "current_load": 6365.3,
+    "predicted_load": 6420.8,
+    "risk_level": "中",
+    "suggestion": "预计负载将有所上升，请关注楼层用电情况。"
+  }
+]

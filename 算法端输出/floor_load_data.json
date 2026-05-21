@@ -1,0 +1,10082 @@
+[
+  {
+    "floor": 1,
+    "time": "2026-05-12 00:00",
+    "floor_total_power": 836.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 00:30",
+    "floor_total_power": 898.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 01:00",
+    "floor_total_power": 1249.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 01:30",
+    "floor_total_power": 833.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 02:00",
+    "floor_total_power": 948.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 02:30",
+    "floor_total_power": 950.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 03:00",
+    "floor_total_power": 1209.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 03:30",
+    "floor_total_power": 1140.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 04:00",
+    "floor_total_power": 1163.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 04:30",
+    "floor_total_power": 1148.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 05:00",
+    "floor_total_power": 1094.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 05:30",
+    "floor_total_power": 1239.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 06:00",
+    "floor_total_power": 1233.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 06:30",
+    "floor_total_power": 880.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 07:00",
+    "floor_total_power": 3052.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 07:30",
+    "floor_total_power": 3100.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 08:00",
+    "floor_total_power": 2846.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 08:30",
+    "floor_total_power": 2738.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 09:00",
+    "floor_total_power": 2635.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 09:30",
+    "floor_total_power": 3161.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 10:00",
+    "floor_total_power": 2627.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 10:30",
+    "floor_total_power": 2824.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 11:00",
+    "floor_total_power": 2788.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 11:30",
+    "floor_total_power": 2590.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 12:00",
+    "floor_total_power": 2343.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 12:30",
+    "floor_total_power": 2525.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 13:00",
+    "floor_total_power": 2645.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 13:30",
+    "floor_total_power": 3336.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 14:00",
+    "floor_total_power": 2356.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 14:30",
+    "floor_total_power": 2656.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 15:00",
+    "floor_total_power": 2903.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 15:30",
+    "floor_total_power": 2615.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 16:00",
+    "floor_total_power": 2868.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 16:30",
+    "floor_total_power": 2982.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 17:00",
+    "floor_total_power": 2840.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 17:30",
+    "floor_total_power": 2417.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 18:00",
+    "floor_total_power": 5556.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 18:30",
+    "floor_total_power": 5096.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 19:00",
+    "floor_total_power": 5616.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 19:30",
+    "floor_total_power": 4816.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 20:00",
+    "floor_total_power": 4581.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 20:30",
+    "floor_total_power": 5296.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 21:00",
+    "floor_total_power": 5499.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 21:30",
+    "floor_total_power": 4530.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 22:00",
+    "floor_total_power": 4449.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 22:30",
+    "floor_total_power": 5806.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 23:00",
+    "floor_total_power": 5081.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-12 23:30",
+    "floor_total_power": 5140.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 00:00",
+    "floor_total_power": 950.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 00:30",
+    "floor_total_power": 1237.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 01:00",
+    "floor_total_power": 882.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 01:30",
+    "floor_total_power": 891.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 02:00",
+    "floor_total_power": 911.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 02:30",
+    "floor_total_power": 1150.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 03:00",
+    "floor_total_power": 1095.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 03:30",
+    "floor_total_power": 1143.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 04:00",
+    "floor_total_power": 1185.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 04:30",
+    "floor_total_power": 993.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 05:00",
+    "floor_total_power": 1215.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 05:30",
+    "floor_total_power": 995.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 06:00",
+    "floor_total_power": 1017.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 06:30",
+    "floor_total_power": 1223.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 07:00",
+    "floor_total_power": 2668.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 07:30",
+    "floor_total_power": 2620.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 08:00",
+    "floor_total_power": 2789.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 08:30",
+    "floor_total_power": 2770.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 09:00",
+    "floor_total_power": 2619.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 09:30",
+    "floor_total_power": 2764.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 10:00",
+    "floor_total_power": 2795.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 10:30",
+    "floor_total_power": 2809.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 11:00",
+    "floor_total_power": 2425.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 11:30",
+    "floor_total_power": 2587.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 12:00",
+    "floor_total_power": 2953.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 12:30",
+    "floor_total_power": 2548.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 13:00",
+    "floor_total_power": 2624.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 13:30",
+    "floor_total_power": 2713.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 14:00",
+    "floor_total_power": 2749.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 14:30",
+    "floor_total_power": 2720.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 15:00",
+    "floor_total_power": 2774.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 15:30",
+    "floor_total_power": 2765.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 16:00",
+    "floor_total_power": 2721.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 16:30",
+    "floor_total_power": 2743.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 17:00",
+    "floor_total_power": 2427.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 17:30",
+    "floor_total_power": 3026.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 18:00",
+    "floor_total_power": 5404.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 18:30",
+    "floor_total_power": 5414.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 19:00",
+    "floor_total_power": 5745.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 19:30",
+    "floor_total_power": 5638.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 20:00",
+    "floor_total_power": 4643.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 20:30",
+    "floor_total_power": 4941.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 21:00",
+    "floor_total_power": 4663.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 21:30",
+    "floor_total_power": 5266.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 22:00",
+    "floor_total_power": 5347.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 22:30",
+    "floor_total_power": 5188.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 23:00",
+    "floor_total_power": 5214.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-13 23:30",
+    "floor_total_power": 5421.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 00:00",
+    "floor_total_power": 977.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 00:30",
+    "floor_total_power": 929.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 01:00",
+    "floor_total_power": 1012.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 01:30",
+    "floor_total_power": 985.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 02:00",
+    "floor_total_power": 903.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 02:30",
+    "floor_total_power": 1289.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 03:00",
+    "floor_total_power": 1173.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 03:30",
+    "floor_total_power": 1215.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 04:00",
+    "floor_total_power": 1121.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 04:30",
+    "floor_total_power": 1088.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 05:00",
+    "floor_total_power": 1068.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 05:30",
+    "floor_total_power": 990.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 06:00",
+    "floor_total_power": 1023.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 06:30",
+    "floor_total_power": 938.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 07:00",
+    "floor_total_power": 2971.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 07:30",
+    "floor_total_power": 3299.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 08:00",
+    "floor_total_power": 2822.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 08:30",
+    "floor_total_power": 2492.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 09:00",
+    "floor_total_power": 2784.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 09:30",
+    "floor_total_power": 2496.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 10:00",
+    "floor_total_power": 2930.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 10:30",
+    "floor_total_power": 3009.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 11:00",
+    "floor_total_power": 2372.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 11:30",
+    "floor_total_power": 2407.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 12:00",
+    "floor_total_power": 3187.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 12:30",
+    "floor_total_power": 2917.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 13:00",
+    "floor_total_power": 3004.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 13:30",
+    "floor_total_power": 2378.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 14:00",
+    "floor_total_power": 3285.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 14:30",
+    "floor_total_power": 2722.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 15:00",
+    "floor_total_power": 2597.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 15:30",
+    "floor_total_power": 2129.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 16:00",
+    "floor_total_power": 2587.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 16:30",
+    "floor_total_power": 2653.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 17:00",
+    "floor_total_power": 3335.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 17:30",
+    "floor_total_power": 2892.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 18:00",
+    "floor_total_power": 5491.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 18:30",
+    "floor_total_power": 5074.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 19:00",
+    "floor_total_power": 4804.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 19:30",
+    "floor_total_power": 5465.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 20:00",
+    "floor_total_power": 5171.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 20:30",
+    "floor_total_power": 5507.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 21:00",
+    "floor_total_power": 4498.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 21:30",
+    "floor_total_power": 5347.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 22:00",
+    "floor_total_power": 5675.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 22:30",
+    "floor_total_power": 4921.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 23:00",
+    "floor_total_power": 5533.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-14 23:30",
+    "floor_total_power": 5023.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 00:00",
+    "floor_total_power": 1189.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 00:30",
+    "floor_total_power": 1004.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 01:00",
+    "floor_total_power": 892.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 01:30",
+    "floor_total_power": 887.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 02:00",
+    "floor_total_power": 1170.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 02:30",
+    "floor_total_power": 1160.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 03:00",
+    "floor_total_power": 1094.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 03:30",
+    "floor_total_power": 987.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 04:00",
+    "floor_total_power": 987.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 04:30",
+    "floor_total_power": 1237.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 05:00",
+    "floor_total_power": 1046.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 05:30",
+    "floor_total_power": 993.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 06:00",
+    "floor_total_power": 1194.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 06:30",
+    "floor_total_power": 1008.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 07:00",
+    "floor_total_power": 2453.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 07:30",
+    "floor_total_power": 2700.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 08:00",
+    "floor_total_power": 2745.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 08:30",
+    "floor_total_power": 2760.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 09:00",
+    "floor_total_power": 3192.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 09:30",
+    "floor_total_power": 2748.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 10:00",
+    "floor_total_power": 2303.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 10:30",
+    "floor_total_power": 2557.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 11:00",
+    "floor_total_power": 2903.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 11:30",
+    "floor_total_power": 3158.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 12:00",
+    "floor_total_power": 3399.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 12:30",
+    "floor_total_power": 2960.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 13:00",
+    "floor_total_power": 2509.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 13:30",
+    "floor_total_power": 2604.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 14:00",
+    "floor_total_power": 2685.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 14:30",
+    "floor_total_power": 2495.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 15:00",
+    "floor_total_power": 2925.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 15:30",
+    "floor_total_power": 1788.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 16:00",
+    "floor_total_power": 2566.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 16:30",
+    "floor_total_power": 2582.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 17:00",
+    "floor_total_power": 2179.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 17:30",
+    "floor_total_power": 2921.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 18:00",
+    "floor_total_power": 5639.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 18:30",
+    "floor_total_power": 5817.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 19:00",
+    "floor_total_power": 5991.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 19:30",
+    "floor_total_power": 5460.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 20:00",
+    "floor_total_power": 5349.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 20:30",
+    "floor_total_power": 4963.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 21:00",
+    "floor_total_power": 5439.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 21:30",
+    "floor_total_power": 5116.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 22:00",
+    "floor_total_power": 5105.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 22:30",
+    "floor_total_power": 5299.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 23:00",
+    "floor_total_power": 5746.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-15 23:30",
+    "floor_total_power": 5251.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 00:00",
+    "floor_total_power": 1004.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 00:30",
+    "floor_total_power": 998.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 01:00",
+    "floor_total_power": 1174.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 01:30",
+    "floor_total_power": 914.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 02:00",
+    "floor_total_power": 1041.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 02:30",
+    "floor_total_power": 1087.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 03:00",
+    "floor_total_power": 904.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 03:30",
+    "floor_total_power": 1061.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 04:00",
+    "floor_total_power": 983.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 04:30",
+    "floor_total_power": 1121.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 05:00",
+    "floor_total_power": 1060.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 05:30",
+    "floor_total_power": 953.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 06:00",
+    "floor_total_power": 1003.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 06:30",
+    "floor_total_power": 929.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 07:00",
+    "floor_total_power": 2650.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 07:30",
+    "floor_total_power": 3053.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 08:00",
+    "floor_total_power": 2647.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 08:30",
+    "floor_total_power": 3138.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 09:00",
+    "floor_total_power": 3110.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 09:30",
+    "floor_total_power": 2619.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 10:00",
+    "floor_total_power": 2781.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 10:30",
+    "floor_total_power": 2694.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 11:00",
+    "floor_total_power": 2403.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 11:30",
+    "floor_total_power": 2954.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 12:00",
+    "floor_total_power": 2990.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 12:30",
+    "floor_total_power": 2800.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 13:00",
+    "floor_total_power": 2848.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 13:30",
+    "floor_total_power": 3157.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 14:00",
+    "floor_total_power": 2210.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 14:30",
+    "floor_total_power": 3067.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 15:00",
+    "floor_total_power": 2778.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 15:30",
+    "floor_total_power": 3047.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 16:00",
+    "floor_total_power": 2720.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 16:30",
+    "floor_total_power": 2579.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 17:00",
+    "floor_total_power": 2605.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 17:30",
+    "floor_total_power": 2640.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 18:00",
+    "floor_total_power": 5500.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 18:30",
+    "floor_total_power": 4561.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 19:00",
+    "floor_total_power": 5418.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 19:30",
+    "floor_total_power": 5895.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 20:00",
+    "floor_total_power": 5129.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 20:30",
+    "floor_total_power": 5439.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 21:00",
+    "floor_total_power": 5555.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 21:30",
+    "floor_total_power": 5360.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 22:00",
+    "floor_total_power": 5234.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 22:30",
+    "floor_total_power": 4968.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 23:00",
+    "floor_total_power": 4969.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-16 23:30",
+    "floor_total_power": 5197.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 00:00",
+    "floor_total_power": 1245.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 00:30",
+    "floor_total_power": 1095.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 01:00",
+    "floor_total_power": 1150.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 01:30",
+    "floor_total_power": 1065.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 02:00",
+    "floor_total_power": 1079.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 02:30",
+    "floor_total_power": 972.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 03:00",
+    "floor_total_power": 938.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 03:30",
+    "floor_total_power": 764.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 04:00",
+    "floor_total_power": 887.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 04:30",
+    "floor_total_power": 1306.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 05:00",
+    "floor_total_power": 1069.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 05:30",
+    "floor_total_power": 1104.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 06:00",
+    "floor_total_power": 1008.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 06:30",
+    "floor_total_power": 1212.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 07:00",
+    "floor_total_power": 2977.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 07:30",
+    "floor_total_power": 3238.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 08:00",
+    "floor_total_power": 2918.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 08:30",
+    "floor_total_power": 2549.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 09:00",
+    "floor_total_power": 2944.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 09:30",
+    "floor_total_power": 2576.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 10:00",
+    "floor_total_power": 2946.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 10:30",
+    "floor_total_power": 2462.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 11:00",
+    "floor_total_power": 2712.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 11:30",
+    "floor_total_power": 2611.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 12:00",
+    "floor_total_power": 2601.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 12:30",
+    "floor_total_power": 2866.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 13:00",
+    "floor_total_power": 2821.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 13:30",
+    "floor_total_power": 2487.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 14:00",
+    "floor_total_power": 3057.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 14:30",
+    "floor_total_power": 2623.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 15:00",
+    "floor_total_power": 2649.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 15:30",
+    "floor_total_power": 2701.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 16:00",
+    "floor_total_power": 2892.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 16:30",
+    "floor_total_power": 2883.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 17:00",
+    "floor_total_power": 2996.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 17:30",
+    "floor_total_power": 2795.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 18:00",
+    "floor_total_power": 6182.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 18:30",
+    "floor_total_power": 4911.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 19:00",
+    "floor_total_power": 5811.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 19:30",
+    "floor_total_power": 5522.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 20:00",
+    "floor_total_power": 5225.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 20:30",
+    "floor_total_power": 4812.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 21:00",
+    "floor_total_power": 5864.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 21:30",
+    "floor_total_power": 4941.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 22:00",
+    "floor_total_power": 5058.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 22:30",
+    "floor_total_power": 5306.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 23:00",
+    "floor_total_power": 5419.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-17 23:30",
+    "floor_total_power": 4897.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 00:00",
+    "floor_total_power": 1038.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 00:30",
+    "floor_total_power": 1203.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 01:00",
+    "floor_total_power": 1196.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 01:30",
+    "floor_total_power": 1168.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 02:00",
+    "floor_total_power": 1064.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 02:30",
+    "floor_total_power": 1132.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 03:00",
+    "floor_total_power": 934.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 03:30",
+    "floor_total_power": 1022.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 04:00",
+    "floor_total_power": 969.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 04:30",
+    "floor_total_power": 883.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 05:00",
+    "floor_total_power": 1158.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 05:30",
+    "floor_total_power": 1044.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 06:00",
+    "floor_total_power": 1063.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 06:30",
+    "floor_total_power": 1106.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 07:00",
+    "floor_total_power": 2855.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 07:30",
+    "floor_total_power": 2545.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 08:00",
+    "floor_total_power": 3027.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 08:30",
+    "floor_total_power": 3041.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 09:00",
+    "floor_total_power": 2742.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 09:30",
+    "floor_total_power": 2779.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 10:00",
+    "floor_total_power": 2750.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 10:30",
+    "floor_total_power": 2427.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 11:00",
+    "floor_total_power": 2771.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 11:30",
+    "floor_total_power": 2777.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 12:00",
+    "floor_total_power": 2127.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 12:30",
+    "floor_total_power": 2522.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 13:00",
+    "floor_total_power": 2642.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 13:30",
+    "floor_total_power": 2953.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 14:00",
+    "floor_total_power": 3169.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 14:30",
+    "floor_total_power": 3062.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 15:00",
+    "floor_total_power": 2999.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 15:30",
+    "floor_total_power": 2840.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 16:00",
+    "floor_total_power": 2290.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 16:30",
+    "floor_total_power": 2829.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 17:00",
+    "floor_total_power": 2472.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 17:30",
+    "floor_total_power": 3099.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 18:00",
+    "floor_total_power": 5362.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 18:30",
+    "floor_total_power": 5462.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 19:00",
+    "floor_total_power": 5393.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 19:30",
+    "floor_total_power": 5037.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 20:00",
+    "floor_total_power": 5367.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 20:30",
+    "floor_total_power": 4369.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 21:00",
+    "floor_total_power": 4819.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 21:30",
+    "floor_total_power": 5764.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 22:00",
+    "floor_total_power": 4759.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 22:30",
+    "floor_total_power": 5254.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 23:00",
+    "floor_total_power": 6083.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 1,
+    "time": "2026-05-18 23:30",
+    "floor_total_power": 4743.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 00:00",
+    "floor_total_power": 473.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 00:30",
+    "floor_total_power": 493.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 01:00",
+    "floor_total_power": 598.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 01:30",
+    "floor_total_power": 546.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 02:00",
+    "floor_total_power": 487.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 02:30",
+    "floor_total_power": 568.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 03:00",
+    "floor_total_power": 523.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 03:30",
+    "floor_total_power": 464.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 04:00",
+    "floor_total_power": 398.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 04:30",
+    "floor_total_power": 454.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 05:00",
+    "floor_total_power": 576.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 05:30",
+    "floor_total_power": 420.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 06:00",
+    "floor_total_power": 452.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 06:30",
+    "floor_total_power": 531.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 07:00",
+    "floor_total_power": 5212.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 07:30",
+    "floor_total_power": 4927.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 08:00",
+    "floor_total_power": 4961.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 08:30",
+    "floor_total_power": 2891.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 09:00",
+    "floor_total_power": 4563.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 09:30",
+    "floor_total_power": 2243.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 10:00",
+    "floor_total_power": 3183.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 10:30",
+    "floor_total_power": 4099.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 11:00",
+    "floor_total_power": 2669.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 11:30",
+    "floor_total_power": 2994.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 12:00",
+    "floor_total_power": 4127.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 12:30",
+    "floor_total_power": 2322.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 13:00",
+    "floor_total_power": 3768.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 13:30",
+    "floor_total_power": 3857.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 14:00",
+    "floor_total_power": 2645.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 14:30",
+    "floor_total_power": 5303.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 15:00",
+    "floor_total_power": 2384.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 15:30",
+    "floor_total_power": 4403.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 16:00",
+    "floor_total_power": 4547.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 16:30",
+    "floor_total_power": 4282.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 17:00",
+    "floor_total_power": 4514.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 17:30",
+    "floor_total_power": 2830.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 18:00",
+    "floor_total_power": 7553.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 18:30",
+    "floor_total_power": 8636.2,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 19:00",
+    "floor_total_power": 8330.3,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 19:30",
+    "floor_total_power": 8966.1,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 20:00",
+    "floor_total_power": 7769.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 20:30",
+    "floor_total_power": 8965.4,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 21:00",
+    "floor_total_power": 9161.2,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 21:30",
+    "floor_total_power": 9499.2,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 22:00",
+    "floor_total_power": 8728.6,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 22:30",
+    "floor_total_power": 8022.8,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 23:00",
+    "floor_total_power": 8642.4,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-12 23:30",
+    "floor_total_power": 9121.7,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 00:00",
+    "floor_total_power": 450.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 00:30",
+    "floor_total_power": 474.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 01:00",
+    "floor_total_power": 433.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 01:30",
+    "floor_total_power": 425.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 02:00",
+    "floor_total_power": 565.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 02:30",
+    "floor_total_power": 489.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 03:00",
+    "floor_total_power": 519.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 03:30",
+    "floor_total_power": 498.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 04:00",
+    "floor_total_power": 433.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 04:30",
+    "floor_total_power": 477.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 05:00",
+    "floor_total_power": 474.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 05:30",
+    "floor_total_power": 535.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 06:00",
+    "floor_total_power": 437.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 06:30",
+    "floor_total_power": 454.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 07:00",
+    "floor_total_power": 2715.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 07:30",
+    "floor_total_power": 3901.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 08:00",
+    "floor_total_power": 3905.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 08:30",
+    "floor_total_power": 2410.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 09:00",
+    "floor_total_power": 4480.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 09:30",
+    "floor_total_power": 4305.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 10:00",
+    "floor_total_power": 4360.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 10:30",
+    "floor_total_power": 2394.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 11:00",
+    "floor_total_power": 4346.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 11:30",
+    "floor_total_power": 3853.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 12:00",
+    "floor_total_power": 2805.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 12:30",
+    "floor_total_power": 2715.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 13:00",
+    "floor_total_power": 2773.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 13:30",
+    "floor_total_power": 2913.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 14:00",
+    "floor_total_power": 3554.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 14:30",
+    "floor_total_power": 4203.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 15:00",
+    "floor_total_power": 2868.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 15:30",
+    "floor_total_power": 3170.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 16:00",
+    "floor_total_power": 2817.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 16:30",
+    "floor_total_power": 4723.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 17:00",
+    "floor_total_power": 2636.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 17:30",
+    "floor_total_power": 2828.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 18:00",
+    "floor_total_power": 8178.8,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 18:30",
+    "floor_total_power": 8475.0,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 19:00",
+    "floor_total_power": 8894.2,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 19:30",
+    "floor_total_power": 8586.8,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 20:00",
+    "floor_total_power": 8586.6,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 20:30",
+    "floor_total_power": 8519.2,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 21:00",
+    "floor_total_power": 8121.2,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 21:30",
+    "floor_total_power": 8631.3,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 22:00",
+    "floor_total_power": 9848.7,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 22:30",
+    "floor_total_power": 9053.5,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 23:00",
+    "floor_total_power": 8161.2,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-13 23:30",
+    "floor_total_power": 8895.7,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 00:00",
+    "floor_total_power": 404.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 00:30",
+    "floor_total_power": 436.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 01:00",
+    "floor_total_power": 556.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 01:30",
+    "floor_total_power": 426.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 02:00",
+    "floor_total_power": 546.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 02:30",
+    "floor_total_power": 497.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 03:00",
+    "floor_total_power": 477.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 03:30",
+    "floor_total_power": 561.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 04:00",
+    "floor_total_power": 466.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 04:30",
+    "floor_total_power": 609.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 05:00",
+    "floor_total_power": 530.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 05:30",
+    "floor_total_power": 397.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 06:00",
+    "floor_total_power": 591.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 06:30",
+    "floor_total_power": 432.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 07:00",
+    "floor_total_power": 5607.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 07:30",
+    "floor_total_power": 2501.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 08:00",
+    "floor_total_power": 4166.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 08:30",
+    "floor_total_power": 2227.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 09:00",
+    "floor_total_power": 4122.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 09:30",
+    "floor_total_power": 3066.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 10:00",
+    "floor_total_power": 4173.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 10:30",
+    "floor_total_power": 2538.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 11:00",
+    "floor_total_power": 3490.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 11:30",
+    "floor_total_power": 4794.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 12:00",
+    "floor_total_power": 3308.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 12:30",
+    "floor_total_power": 2662.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 13:00",
+    "floor_total_power": 4406.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 13:30",
+    "floor_total_power": 4370.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 14:00",
+    "floor_total_power": 4528.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 14:30",
+    "floor_total_power": 4561.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 15:00",
+    "floor_total_power": 5300.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 15:30",
+    "floor_total_power": 4186.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 16:00",
+    "floor_total_power": 4154.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 16:30",
+    "floor_total_power": 2612.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 17:00",
+    "floor_total_power": 3057.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 17:30",
+    "floor_total_power": 4561.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 18:00",
+    "floor_total_power": 8308.1,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 18:30",
+    "floor_total_power": 8705.0,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 19:00",
+    "floor_total_power": 8877.0,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 19:30",
+    "floor_total_power": 7797.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 20:00",
+    "floor_total_power": 9612.3,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 20:30",
+    "floor_total_power": 8375.6,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 21:00",
+    "floor_total_power": 8108.9,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 21:30",
+    "floor_total_power": 8619.8,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 22:00",
+    "floor_total_power": 8424.8,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 22:30",
+    "floor_total_power": 8444.1,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 23:00",
+    "floor_total_power": 8374.2,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-14 23:30",
+    "floor_total_power": 8814.9,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 00:00",
+    "floor_total_power": 517.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 00:30",
+    "floor_total_power": 513.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 01:00",
+    "floor_total_power": 550.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 01:30",
+    "floor_total_power": 426.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 02:00",
+    "floor_total_power": 523.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 02:30",
+    "floor_total_power": 437.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 03:00",
+    "floor_total_power": 532.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 03:30",
+    "floor_total_power": 386.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 04:00",
+    "floor_total_power": 511.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 04:30",
+    "floor_total_power": 494.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 05:00",
+    "floor_total_power": 454.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 05:30",
+    "floor_total_power": 453.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 06:00",
+    "floor_total_power": 436.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 06:30",
+    "floor_total_power": 449.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 07:00",
+    "floor_total_power": 2797.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 07:30",
+    "floor_total_power": 4366.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 08:00",
+    "floor_total_power": 4162.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 08:30",
+    "floor_total_power": 4477.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 09:00",
+    "floor_total_power": 4010.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 09:30",
+    "floor_total_power": 5038.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 10:00",
+    "floor_total_power": 6134.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 10:30",
+    "floor_total_power": 2910.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 11:00",
+    "floor_total_power": 3087.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 11:30",
+    "floor_total_power": 5656.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 12:00",
+    "floor_total_power": 2779.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 12:30",
+    "floor_total_power": 2956.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 13:00",
+    "floor_total_power": 2875.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 13:30",
+    "floor_total_power": 3722.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 14:00",
+    "floor_total_power": 4276.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 14:30",
+    "floor_total_power": 2706.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 15:00",
+    "floor_total_power": 4469.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 15:30",
+    "floor_total_power": 2946.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 16:00",
+    "floor_total_power": 2741.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 16:30",
+    "floor_total_power": 3770.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 17:00",
+    "floor_total_power": 4202.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 17:30",
+    "floor_total_power": 4314.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 18:00",
+    "floor_total_power": 7796.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 18:30",
+    "floor_total_power": 8317.1,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 19:00",
+    "floor_total_power": 7848.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 19:30",
+    "floor_total_power": 8702.4,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 20:00",
+    "floor_total_power": 8282.1,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 20:30",
+    "floor_total_power": 7917.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 21:00",
+    "floor_total_power": 9502.4,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 21:30",
+    "floor_total_power": 8788.5,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 22:00",
+    "floor_total_power": 8237.4,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 22:30",
+    "floor_total_power": 8102.3,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 23:00",
+    "floor_total_power": 7405.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-15 23:30",
+    "floor_total_power": 8324.0,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 00:00",
+    "floor_total_power": 523.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 00:30",
+    "floor_total_power": 553.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 01:00",
+    "floor_total_power": 583.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 01:30",
+    "floor_total_power": 490.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 02:00",
+    "floor_total_power": 554.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 02:30",
+    "floor_total_power": 541.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 03:00",
+    "floor_total_power": 442.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 03:30",
+    "floor_total_power": 523.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 04:00",
+    "floor_total_power": 540.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 04:30",
+    "floor_total_power": 480.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 05:00",
+    "floor_total_power": 531.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 05:30",
+    "floor_total_power": 440.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 06:00",
+    "floor_total_power": 451.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 06:30",
+    "floor_total_power": 513.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 07:00",
+    "floor_total_power": 2639.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 07:30",
+    "floor_total_power": 2504.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 08:00",
+    "floor_total_power": 4261.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 08:30",
+    "floor_total_power": 4467.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 09:00",
+    "floor_total_power": 2595.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 09:30",
+    "floor_total_power": 2730.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 10:00",
+    "floor_total_power": 4778.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 10:30",
+    "floor_total_power": 3670.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 11:00",
+    "floor_total_power": 4337.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 11:30",
+    "floor_total_power": 6604.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 12:00",
+    "floor_total_power": 3935.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 12:30",
+    "floor_total_power": 2772.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 13:00",
+    "floor_total_power": 4470.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 13:30",
+    "floor_total_power": 2570.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 14:00",
+    "floor_total_power": 5524.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 14:30",
+    "floor_total_power": 2032.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 15:00",
+    "floor_total_power": 5514.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 15:30",
+    "floor_total_power": 4025.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 16:00",
+    "floor_total_power": 2681.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 16:30",
+    "floor_total_power": 3129.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 17:00",
+    "floor_total_power": 3951.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 17:30",
+    "floor_total_power": 3049.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 18:00",
+    "floor_total_power": 8208.4,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 18:30",
+    "floor_total_power": 9175.7,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 19:00",
+    "floor_total_power": 9468.8,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 19:30",
+    "floor_total_power": 8472.1,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 20:00",
+    "floor_total_power": 8582.7,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 20:30",
+    "floor_total_power": 7734.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 21:00",
+    "floor_total_power": 8527.3,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 21:30",
+    "floor_total_power": 9058.0,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 22:00",
+    "floor_total_power": 8341.1,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 22:30",
+    "floor_total_power": 7339.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 23:00",
+    "floor_total_power": 8438.7,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-16 23:30",
+    "floor_total_power": 9451.9,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 00:00",
+    "floor_total_power": 497.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 00:30",
+    "floor_total_power": 512.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 01:00",
+    "floor_total_power": 465.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 01:30",
+    "floor_total_power": 481.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 02:00",
+    "floor_total_power": 512.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 02:30",
+    "floor_total_power": 490.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 03:00",
+    "floor_total_power": 519.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 03:30",
+    "floor_total_power": 431.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 04:00",
+    "floor_total_power": 562.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 04:30",
+    "floor_total_power": 534.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 05:00",
+    "floor_total_power": 581.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 05:30",
+    "floor_total_power": 569.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 06:00",
+    "floor_total_power": 597.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 06:30",
+    "floor_total_power": 520.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 07:00",
+    "floor_total_power": 2982.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 07:30",
+    "floor_total_power": 2595.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 08:00",
+    "floor_total_power": 3300.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 08:30",
+    "floor_total_power": 2356.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 09:00",
+    "floor_total_power": 2791.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 09:30",
+    "floor_total_power": 2911.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 10:00",
+    "floor_total_power": 2979.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 10:30",
+    "floor_total_power": 5644.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 11:00",
+    "floor_total_power": 4118.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 11:30",
+    "floor_total_power": 2860.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 12:00",
+    "floor_total_power": 4441.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 12:30",
+    "floor_total_power": 2650.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 13:00",
+    "floor_total_power": 2829.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 13:30",
+    "floor_total_power": 4754.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 14:00",
+    "floor_total_power": 4876.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 14:30",
+    "floor_total_power": 4397.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 15:00",
+    "floor_total_power": 3846.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 15:30",
+    "floor_total_power": 2062.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 16:00",
+    "floor_total_power": 3318.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 16:30",
+    "floor_total_power": 4089.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 17:00",
+    "floor_total_power": 3433.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 17:30",
+    "floor_total_power": 4045.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 18:00",
+    "floor_total_power": 6999.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 18:30",
+    "floor_total_power": 8774.3,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 19:00",
+    "floor_total_power": 6931.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 19:30",
+    "floor_total_power": 7669.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 20:00",
+    "floor_total_power": 8692.4,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 20:30",
+    "floor_total_power": 10066.8,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 21:00",
+    "floor_total_power": 8999.0,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 21:30",
+    "floor_total_power": 8777.6,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 22:00",
+    "floor_total_power": 8041.4,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 22:30",
+    "floor_total_power": 7424.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 23:00",
+    "floor_total_power": 7476.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-17 23:30",
+    "floor_total_power": 8245.0,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 00:00",
+    "floor_total_power": 525.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 00:30",
+    "floor_total_power": 519.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 01:00",
+    "floor_total_power": 561.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 01:30",
+    "floor_total_power": 481.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 02:00",
+    "floor_total_power": 530.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 02:30",
+    "floor_total_power": 484.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 03:00",
+    "floor_total_power": 470.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 03:30",
+    "floor_total_power": 476.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 04:00",
+    "floor_total_power": 467.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 04:30",
+    "floor_total_power": 455.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 05:00",
+    "floor_total_power": 546.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 05:30",
+    "floor_total_power": 575.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 06:00",
+    "floor_total_power": 552.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 06:30",
+    "floor_total_power": 460.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 07:00",
+    "floor_total_power": 4986.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 07:30",
+    "floor_total_power": 2863.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 08:00",
+    "floor_total_power": 4422.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 08:30",
+    "floor_total_power": 4507.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 09:00",
+    "floor_total_power": 3146.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 09:30",
+    "floor_total_power": 2538.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 10:00",
+    "floor_total_power": 2956.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 10:30",
+    "floor_total_power": 4397.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 11:00",
+    "floor_total_power": 2590.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 11:30",
+    "floor_total_power": 3440.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 12:00",
+    "floor_total_power": 3784.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 12:30",
+    "floor_total_power": 3161.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 13:00",
+    "floor_total_power": 2869.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 13:30",
+    "floor_total_power": 2872.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 14:00",
+    "floor_total_power": 2745.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 14:30",
+    "floor_total_power": 4156.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 15:00",
+    "floor_total_power": 2665.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 15:30",
+    "floor_total_power": 3166.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 16:00",
+    "floor_total_power": 2596.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 16:30",
+    "floor_total_power": 2475.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 17:00",
+    "floor_total_power": 4024.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 17:30",
+    "floor_total_power": 2792.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 18:00",
+    "floor_total_power": 7098.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 18:30",
+    "floor_total_power": 10166.3,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 19:00",
+    "floor_total_power": 9914.9,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 19:30",
+    "floor_total_power": 9251.0,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 20:00",
+    "floor_total_power": 8718.2,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 20:30",
+    "floor_total_power": 8998.7,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 21:00",
+    "floor_total_power": 8931.7,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 21:30",
+    "floor_total_power": 8264.1,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 22:00",
+    "floor_total_power": 8393.5,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 22:30",
+    "floor_total_power": 8627.7,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 23:00",
+    "floor_total_power": 9212.8,
+    "risk_level": "高"
+  },
+  {
+    "floor": 2,
+    "time": "2026-05-18 23:30",
+    "floor_total_power": 9013.0,
+    "risk_level": "高"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 00:00",
+    "floor_total_power": 497.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 00:30",
+    "floor_total_power": 469.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 01:00",
+    "floor_total_power": 584.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 01:30",
+    "floor_total_power": 527.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 02:00",
+    "floor_total_power": 426.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 02:30",
+    "floor_total_power": 550.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 03:00",
+    "floor_total_power": 574.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 03:30",
+    "floor_total_power": 455.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 04:00",
+    "floor_total_power": 564.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 04:30",
+    "floor_total_power": 436.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 05:00",
+    "floor_total_power": 450.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 05:30",
+    "floor_total_power": 555.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 06:00",
+    "floor_total_power": 484.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 06:30",
+    "floor_total_power": 551.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 07:00",
+    "floor_total_power": 4357.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 07:30",
+    "floor_total_power": 4075.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 08:00",
+    "floor_total_power": 3553.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 08:30",
+    "floor_total_power": 4458.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 09:00",
+    "floor_total_power": 4045.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 09:30",
+    "floor_total_power": 4733.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 10:00",
+    "floor_total_power": 4593.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 10:30",
+    "floor_total_power": 4638.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 11:00",
+    "floor_total_power": 3483.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 11:30",
+    "floor_total_power": 3710.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 12:00",
+    "floor_total_power": 3176.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 12:30",
+    "floor_total_power": 4235.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 13:00",
+    "floor_total_power": 3958.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 13:30",
+    "floor_total_power": 4054.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 14:00",
+    "floor_total_power": 3394.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 14:30",
+    "floor_total_power": 4203.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 15:00",
+    "floor_total_power": 4132.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 15:30",
+    "floor_total_power": 3970.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 16:00",
+    "floor_total_power": 3998.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 16:30",
+    "floor_total_power": 3588.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 17:00",
+    "floor_total_power": 4233.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 17:30",
+    "floor_total_power": 3809.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 18:00",
+    "floor_total_power": 6957.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 18:30",
+    "floor_total_power": 7066.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 19:00",
+    "floor_total_power": 7641.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 19:30",
+    "floor_total_power": 7461.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 20:00",
+    "floor_total_power": 7487.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 20:30",
+    "floor_total_power": 6834.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 21:00",
+    "floor_total_power": 8011.8,
+    "risk_level": "高"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 21:30",
+    "floor_total_power": 7614.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 22:00",
+    "floor_total_power": 6564.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 22:30",
+    "floor_total_power": 6929.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 23:00",
+    "floor_total_power": 7556.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-12 23:30",
+    "floor_total_power": 7687.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 00:00",
+    "floor_total_power": 439.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 00:30",
+    "floor_total_power": 534.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 01:00",
+    "floor_total_power": 435.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 01:30",
+    "floor_total_power": 565.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 02:00",
+    "floor_total_power": 524.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 02:30",
+    "floor_total_power": 537.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 03:00",
+    "floor_total_power": 496.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 03:30",
+    "floor_total_power": 515.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 04:00",
+    "floor_total_power": 478.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 04:30",
+    "floor_total_power": 506.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 05:00",
+    "floor_total_power": 513.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 05:30",
+    "floor_total_power": 588.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 06:00",
+    "floor_total_power": 505.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 06:30",
+    "floor_total_power": 456.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 07:00",
+    "floor_total_power": 3205.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 07:30",
+    "floor_total_power": 3838.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 08:00",
+    "floor_total_power": 3964.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 08:30",
+    "floor_total_power": 4351.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 09:00",
+    "floor_total_power": 3865.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 09:30",
+    "floor_total_power": 3707.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 10:00",
+    "floor_total_power": 3931.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 10:30",
+    "floor_total_power": 3718.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 11:00",
+    "floor_total_power": 3479.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 11:30",
+    "floor_total_power": 4343.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 12:00",
+    "floor_total_power": 4072.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 12:30",
+    "floor_total_power": 3791.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 13:00",
+    "floor_total_power": 3740.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 13:30",
+    "floor_total_power": 3932.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 14:00",
+    "floor_total_power": 4290.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 14:30",
+    "floor_total_power": 3921.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 15:00",
+    "floor_total_power": 4008.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 15:30",
+    "floor_total_power": 3877.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 16:00",
+    "floor_total_power": 3513.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 16:30",
+    "floor_total_power": 4011.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 17:00",
+    "floor_total_power": 3933.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 17:30",
+    "floor_total_power": 3592.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 18:00",
+    "floor_total_power": 6937.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 18:30",
+    "floor_total_power": 6796.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 19:00",
+    "floor_total_power": 7609.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 19:30",
+    "floor_total_power": 7503.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 20:00",
+    "floor_total_power": 7782.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 20:30",
+    "floor_total_power": 7554.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 21:00",
+    "floor_total_power": 7799.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 21:30",
+    "floor_total_power": 6247.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 22:00",
+    "floor_total_power": 7689.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 22:30",
+    "floor_total_power": 7450.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 23:00",
+    "floor_total_power": 7728.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-13 23:30",
+    "floor_total_power": 6515.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 00:00",
+    "floor_total_power": 414.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 00:30",
+    "floor_total_power": 615.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 01:00",
+    "floor_total_power": 578.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 01:30",
+    "floor_total_power": 392.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 02:00",
+    "floor_total_power": 442.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 02:30",
+    "floor_total_power": 512.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 03:00",
+    "floor_total_power": 519.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 03:30",
+    "floor_total_power": 531.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 04:00",
+    "floor_total_power": 510.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 04:30",
+    "floor_total_power": 497.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 05:00",
+    "floor_total_power": 352.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 05:30",
+    "floor_total_power": 441.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 06:00",
+    "floor_total_power": 470.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 06:30",
+    "floor_total_power": 504.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 07:00",
+    "floor_total_power": 4052.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 07:30",
+    "floor_total_power": 3799.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 08:00",
+    "floor_total_power": 3638.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 08:30",
+    "floor_total_power": 3523.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 09:00",
+    "floor_total_power": 3857.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 09:30",
+    "floor_total_power": 3331.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 10:00",
+    "floor_total_power": 3864.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 10:30",
+    "floor_total_power": 3823.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 11:00",
+    "floor_total_power": 4141.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 11:30",
+    "floor_total_power": 4297.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 12:00",
+    "floor_total_power": 4548.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 12:30",
+    "floor_total_power": 4084.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 13:00",
+    "floor_total_power": 3485.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 13:30",
+    "floor_total_power": 3454.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 14:00",
+    "floor_total_power": 4330.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 14:30",
+    "floor_total_power": 4359.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 15:00",
+    "floor_total_power": 4134.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 15:30",
+    "floor_total_power": 4043.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 16:00",
+    "floor_total_power": 4556.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 16:30",
+    "floor_total_power": 3819.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 17:00",
+    "floor_total_power": 3715.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 17:30",
+    "floor_total_power": 3747.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 18:00",
+    "floor_total_power": 7722.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 18:30",
+    "floor_total_power": 8038.1,
+    "risk_level": "高"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 19:00",
+    "floor_total_power": 6650.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 19:30",
+    "floor_total_power": 7055.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 20:00",
+    "floor_total_power": 6808.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 20:30",
+    "floor_total_power": 6499.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 21:00",
+    "floor_total_power": 7326.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 21:30",
+    "floor_total_power": 5977.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 22:00",
+    "floor_total_power": 7070.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 22:30",
+    "floor_total_power": 8048.8,
+    "risk_level": "高"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 23:00",
+    "floor_total_power": 7745.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-14 23:30",
+    "floor_total_power": 6856.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 00:00",
+    "floor_total_power": 521.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 00:30",
+    "floor_total_power": 470.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 01:00",
+    "floor_total_power": 572.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 01:30",
+    "floor_total_power": 486.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 02:00",
+    "floor_total_power": 498.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 02:30",
+    "floor_total_power": 467.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 03:00",
+    "floor_total_power": 512.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 03:30",
+    "floor_total_power": 495.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 04:00",
+    "floor_total_power": 437.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 04:30",
+    "floor_total_power": 583.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 05:00",
+    "floor_total_power": 456.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 05:30",
+    "floor_total_power": 502.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 06:00",
+    "floor_total_power": 500.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 06:30",
+    "floor_total_power": 479.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 07:00",
+    "floor_total_power": 3938.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 07:30",
+    "floor_total_power": 3391.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 08:00",
+    "floor_total_power": 3842.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 08:30",
+    "floor_total_power": 4343.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 09:00",
+    "floor_total_power": 3761.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 09:30",
+    "floor_total_power": 3553.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 10:00",
+    "floor_total_power": 3803.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 10:30",
+    "floor_total_power": 3939.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 11:00",
+    "floor_total_power": 3716.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 11:30",
+    "floor_total_power": 3797.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 12:00",
+    "floor_total_power": 4269.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 12:30",
+    "floor_total_power": 3851.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 13:00",
+    "floor_total_power": 4063.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 13:30",
+    "floor_total_power": 4028.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 14:00",
+    "floor_total_power": 4329.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 14:30",
+    "floor_total_power": 3917.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 15:00",
+    "floor_total_power": 3760.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 15:30",
+    "floor_total_power": 4324.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 16:00",
+    "floor_total_power": 4074.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 16:30",
+    "floor_total_power": 3753.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 17:00",
+    "floor_total_power": 3565.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 17:30",
+    "floor_total_power": 3550.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 18:00",
+    "floor_total_power": 6744.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 18:30",
+    "floor_total_power": 6885.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 19:00",
+    "floor_total_power": 7788.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 19:30",
+    "floor_total_power": 6341.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 20:00",
+    "floor_total_power": 7548.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 20:30",
+    "floor_total_power": 6852.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 21:00",
+    "floor_total_power": 6695.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 21:30",
+    "floor_total_power": 7743.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 22:00",
+    "floor_total_power": 6284.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 22:30",
+    "floor_total_power": 7754.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 23:00",
+    "floor_total_power": 6448.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-15 23:30",
+    "floor_total_power": 7047.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 00:00",
+    "floor_total_power": 387.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 00:30",
+    "floor_total_power": 412.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 01:00",
+    "floor_total_power": 440.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 01:30",
+    "floor_total_power": 522.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 02:00",
+    "floor_total_power": 638.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 02:30",
+    "floor_total_power": 506.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 03:00",
+    "floor_total_power": 470.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 03:30",
+    "floor_total_power": 424.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 04:00",
+    "floor_total_power": 477.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 04:30",
+    "floor_total_power": 467.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 05:00",
+    "floor_total_power": 447.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 05:30",
+    "floor_total_power": 553.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 06:00",
+    "floor_total_power": 560.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 06:30",
+    "floor_total_power": 448.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 07:00",
+    "floor_total_power": 3821.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 07:30",
+    "floor_total_power": 4488.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 08:00",
+    "floor_total_power": 4517.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 08:30",
+    "floor_total_power": 3430.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 09:00",
+    "floor_total_power": 3762.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 09:30",
+    "floor_total_power": 4048.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 10:00",
+    "floor_total_power": 3702.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 10:30",
+    "floor_total_power": 3875.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 11:00",
+    "floor_total_power": 4556.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 11:30",
+    "floor_total_power": 3409.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 12:00",
+    "floor_total_power": 4773.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 12:30",
+    "floor_total_power": 3755.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 13:00",
+    "floor_total_power": 4042.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 13:30",
+    "floor_total_power": 3531.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 14:00",
+    "floor_total_power": 4082.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 14:30",
+    "floor_total_power": 3996.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 15:00",
+    "floor_total_power": 4164.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 15:30",
+    "floor_total_power": 3692.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 16:00",
+    "floor_total_power": 3733.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 16:30",
+    "floor_total_power": 3722.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 17:00",
+    "floor_total_power": 3668.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 17:30",
+    "floor_total_power": 3787.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 18:00",
+    "floor_total_power": 6932.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 18:30",
+    "floor_total_power": 7073.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 19:00",
+    "floor_total_power": 7098.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 19:30",
+    "floor_total_power": 7217.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 20:00",
+    "floor_total_power": 7872.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 20:30",
+    "floor_total_power": 7781.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 21:00",
+    "floor_total_power": 7647.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 21:30",
+    "floor_total_power": 8343.0,
+    "risk_level": "高"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 22:00",
+    "floor_total_power": 6938.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 22:30",
+    "floor_total_power": 7327.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 23:00",
+    "floor_total_power": 7544.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-16 23:30",
+    "floor_total_power": 7453.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 00:00",
+    "floor_total_power": 498.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 00:30",
+    "floor_total_power": 482.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 01:00",
+    "floor_total_power": 490.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 01:30",
+    "floor_total_power": 554.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 02:00",
+    "floor_total_power": 529.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 02:30",
+    "floor_total_power": 482.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 03:00",
+    "floor_total_power": 524.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 03:30",
+    "floor_total_power": 548.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 04:00",
+    "floor_total_power": 492.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 04:30",
+    "floor_total_power": 460.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 05:00",
+    "floor_total_power": 362.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 05:30",
+    "floor_total_power": 642.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 06:00",
+    "floor_total_power": 534.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 06:30",
+    "floor_total_power": 578.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 07:00",
+    "floor_total_power": 3588.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 07:30",
+    "floor_total_power": 4397.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 08:00",
+    "floor_total_power": 3413.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 08:30",
+    "floor_total_power": 3694.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 09:00",
+    "floor_total_power": 4016.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 09:30",
+    "floor_total_power": 4095.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 10:00",
+    "floor_total_power": 4139.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 10:30",
+    "floor_total_power": 4446.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 11:00",
+    "floor_total_power": 4365.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 11:30",
+    "floor_total_power": 3838.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 12:00",
+    "floor_total_power": 4428.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 12:30",
+    "floor_total_power": 3919.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 13:00",
+    "floor_total_power": 3450.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 13:30",
+    "floor_total_power": 3593.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 14:00",
+    "floor_total_power": 3903.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 14:30",
+    "floor_total_power": 3757.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 15:00",
+    "floor_total_power": 3722.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 15:30",
+    "floor_total_power": 3969.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 16:00",
+    "floor_total_power": 4067.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 16:30",
+    "floor_total_power": 3501.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 17:00",
+    "floor_total_power": 4070.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 17:30",
+    "floor_total_power": 4180.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 18:00",
+    "floor_total_power": 6987.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 18:30",
+    "floor_total_power": 7324.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 19:00",
+    "floor_total_power": 6968.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 19:30",
+    "floor_total_power": 7019.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 20:00",
+    "floor_total_power": 7408.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 20:30",
+    "floor_total_power": 6783.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 21:00",
+    "floor_total_power": 6691.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 21:30",
+    "floor_total_power": 7277.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 22:00",
+    "floor_total_power": 7716.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 22:30",
+    "floor_total_power": 6767.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 23:00",
+    "floor_total_power": 7340.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-17 23:30",
+    "floor_total_power": 7664.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 00:00",
+    "floor_total_power": 479.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 00:30",
+    "floor_total_power": 504.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 01:00",
+    "floor_total_power": 516.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 01:30",
+    "floor_total_power": 601.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 02:00",
+    "floor_total_power": 476.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 02:30",
+    "floor_total_power": 437.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 03:00",
+    "floor_total_power": 504.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 03:30",
+    "floor_total_power": 426.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 04:00",
+    "floor_total_power": 530.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 04:30",
+    "floor_total_power": 522.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 05:00",
+    "floor_total_power": 424.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 05:30",
+    "floor_total_power": 515.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 06:00",
+    "floor_total_power": 447.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 06:30",
+    "floor_total_power": 466.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 07:00",
+    "floor_total_power": 4256.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 07:30",
+    "floor_total_power": 3634.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 08:00",
+    "floor_total_power": 3748.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 08:30",
+    "floor_total_power": 4174.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 09:00",
+    "floor_total_power": 3874.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 09:30",
+    "floor_total_power": 4131.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 10:00",
+    "floor_total_power": 3693.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 10:30",
+    "floor_total_power": 3938.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 11:00",
+    "floor_total_power": 4067.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 11:30",
+    "floor_total_power": 3954.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 12:00",
+    "floor_total_power": 3986.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 12:30",
+    "floor_total_power": 4022.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 13:00",
+    "floor_total_power": 4214.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 13:30",
+    "floor_total_power": 3988.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 14:00",
+    "floor_total_power": 4050.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 14:30",
+    "floor_total_power": 3746.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 15:00",
+    "floor_total_power": 4133.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 15:30",
+    "floor_total_power": 3386.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 16:00",
+    "floor_total_power": 4069.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 16:30",
+    "floor_total_power": 3978.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 17:00",
+    "floor_total_power": 3579.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 17:30",
+    "floor_total_power": 3763.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 18:00",
+    "floor_total_power": 7514.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 18:30",
+    "floor_total_power": 7289.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 19:00",
+    "floor_total_power": 7007.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 19:30",
+    "floor_total_power": 8005.4,
+    "risk_level": "高"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 20:00",
+    "floor_total_power": 7838.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 20:30",
+    "floor_total_power": 7650.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 21:00",
+    "floor_total_power": 6367.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 21:30",
+    "floor_total_power": 6756.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 22:00",
+    "floor_total_power": 7601.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 22:30",
+    "floor_total_power": 8173.6,
+    "risk_level": "高"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 23:00",
+    "floor_total_power": 7164.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 3,
+    "time": "2026-05-18 23:30",
+    "floor_total_power": 7915.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 00:00",
+    "floor_total_power": 911.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 00:30",
+    "floor_total_power": 839.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 01:00",
+    "floor_total_power": 715.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 01:30",
+    "floor_total_power": 660.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 02:00",
+    "floor_total_power": 792.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 02:30",
+    "floor_total_power": 777.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 03:00",
+    "floor_total_power": 941.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 03:30",
+    "floor_total_power": 878.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 04:00",
+    "floor_total_power": 757.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 04:30",
+    "floor_total_power": 658.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 05:00",
+    "floor_total_power": 815.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 05:30",
+    "floor_total_power": 974.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 06:00",
+    "floor_total_power": 695.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 06:30",
+    "floor_total_power": 760.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 07:00",
+    "floor_total_power": 2646.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 07:30",
+    "floor_total_power": 2627.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 08:00",
+    "floor_total_power": 2642.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 08:30",
+    "floor_total_power": 2437.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 09:00",
+    "floor_total_power": 2239.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 09:30",
+    "floor_total_power": 2664.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 10:00",
+    "floor_total_power": 3032.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 10:30",
+    "floor_total_power": 3090.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 11:00",
+    "floor_total_power": 2304.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 11:30",
+    "floor_total_power": 2866.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 12:00",
+    "floor_total_power": 2835.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 12:30",
+    "floor_total_power": 2480.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 13:00",
+    "floor_total_power": 2817.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 13:30",
+    "floor_total_power": 2794.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 14:00",
+    "floor_total_power": 2518.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 14:30",
+    "floor_total_power": 2752.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 15:00",
+    "floor_total_power": 2777.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 15:30",
+    "floor_total_power": 2773.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 16:00",
+    "floor_total_power": 2264.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 16:30",
+    "floor_total_power": 2764.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 17:00",
+    "floor_total_power": 2846.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 17:30",
+    "floor_total_power": 2776.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 18:00",
+    "floor_total_power": 5197.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 18:30",
+    "floor_total_power": 5733.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 19:00",
+    "floor_total_power": 5103.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 19:30",
+    "floor_total_power": 4992.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 20:00",
+    "floor_total_power": 5041.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 20:30",
+    "floor_total_power": 5569.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 21:00",
+    "floor_total_power": 6322.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 21:30",
+    "floor_total_power": 5329.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 22:00",
+    "floor_total_power": 6266.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 22:30",
+    "floor_total_power": 5211.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 23:00",
+    "floor_total_power": 4893.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-12 23:30",
+    "floor_total_power": 4723.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 00:00",
+    "floor_total_power": 816.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 00:30",
+    "floor_total_power": 801.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 01:00",
+    "floor_total_power": 810.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 01:30",
+    "floor_total_power": 904.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 02:00",
+    "floor_total_power": 842.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 02:30",
+    "floor_total_power": 717.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 03:00",
+    "floor_total_power": 765.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 03:30",
+    "floor_total_power": 974.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 04:00",
+    "floor_total_power": 938.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 04:30",
+    "floor_total_power": 948.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 05:00",
+    "floor_total_power": 757.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 05:30",
+    "floor_total_power": 851.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 06:00",
+    "floor_total_power": 779.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 06:30",
+    "floor_total_power": 868.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 07:00",
+    "floor_total_power": 2965.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 07:30",
+    "floor_total_power": 2475.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 08:00",
+    "floor_total_power": 2377.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 08:30",
+    "floor_total_power": 2747.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 09:00",
+    "floor_total_power": 2508.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 09:30",
+    "floor_total_power": 2712.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 10:00",
+    "floor_total_power": 2839.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 10:30",
+    "floor_total_power": 2464.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 11:00",
+    "floor_total_power": 3050.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 11:30",
+    "floor_total_power": 2322.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 12:00",
+    "floor_total_power": 2480.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 12:30",
+    "floor_total_power": 2682.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 13:00",
+    "floor_total_power": 2575.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 13:30",
+    "floor_total_power": 2488.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 14:00",
+    "floor_total_power": 2411.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 14:30",
+    "floor_total_power": 2491.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 15:00",
+    "floor_total_power": 2294.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 15:30",
+    "floor_total_power": 2702.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 16:00",
+    "floor_total_power": 2833.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 16:30",
+    "floor_total_power": 2799.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 17:00",
+    "floor_total_power": 2661.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 17:30",
+    "floor_total_power": 2961.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 18:00",
+    "floor_total_power": 5176.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 18:30",
+    "floor_total_power": 5351.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 19:00",
+    "floor_total_power": 5860.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 19:30",
+    "floor_total_power": 4788.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 20:00",
+    "floor_total_power": 4846.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 20:30",
+    "floor_total_power": 5001.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 21:00",
+    "floor_total_power": 5076.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 21:30",
+    "floor_total_power": 5316.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 22:00",
+    "floor_total_power": 4940.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 22:30",
+    "floor_total_power": 4721.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 23:00",
+    "floor_total_power": 4995.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-13 23:30",
+    "floor_total_power": 5799.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 00:00",
+    "floor_total_power": 649.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 00:30",
+    "floor_total_power": 790.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 01:00",
+    "floor_total_power": 899.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 01:30",
+    "floor_total_power": 932.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 02:00",
+    "floor_total_power": 610.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 02:30",
+    "floor_total_power": 670.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 03:00",
+    "floor_total_power": 556.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 03:30",
+    "floor_total_power": 757.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 04:00",
+    "floor_total_power": 718.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 04:30",
+    "floor_total_power": 598.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 05:00",
+    "floor_total_power": 753.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 05:30",
+    "floor_total_power": 824.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 06:00",
+    "floor_total_power": 757.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 06:30",
+    "floor_total_power": 815.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 07:00",
+    "floor_total_power": 2749.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 07:30",
+    "floor_total_power": 2748.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 08:00",
+    "floor_total_power": 2335.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 08:30",
+    "floor_total_power": 2451.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 09:00",
+    "floor_total_power": 2725.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 09:30",
+    "floor_total_power": 2664.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 10:00",
+    "floor_total_power": 2714.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 10:30",
+    "floor_total_power": 2582.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 11:00",
+    "floor_total_power": 2764.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 11:30",
+    "floor_total_power": 2760.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 12:00",
+    "floor_total_power": 2677.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 12:30",
+    "floor_total_power": 2723.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 13:00",
+    "floor_total_power": 2511.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 13:30",
+    "floor_total_power": 2698.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 14:00",
+    "floor_total_power": 2715.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 14:30",
+    "floor_total_power": 2985.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 15:00",
+    "floor_total_power": 2720.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 15:30",
+    "floor_total_power": 3027.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 16:00",
+    "floor_total_power": 2553.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 16:30",
+    "floor_total_power": 2657.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 17:00",
+    "floor_total_power": 2624.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 17:30",
+    "floor_total_power": 2156.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 18:00",
+    "floor_total_power": 4984.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 18:30",
+    "floor_total_power": 5025.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 19:00",
+    "floor_total_power": 5475.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 19:30",
+    "floor_total_power": 5953.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 20:00",
+    "floor_total_power": 5427.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 20:30",
+    "floor_total_power": 6078.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 21:00",
+    "floor_total_power": 4554.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 21:30",
+    "floor_total_power": 5346.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 22:00",
+    "floor_total_power": 4539.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 22:30",
+    "floor_total_power": 5561.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 23:00",
+    "floor_total_power": 5486.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-14 23:30",
+    "floor_total_power": 5054.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 00:00",
+    "floor_total_power": 721.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 00:30",
+    "floor_total_power": 743.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 01:00",
+    "floor_total_power": 693.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 01:30",
+    "floor_total_power": 790.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 02:00",
+    "floor_total_power": 748.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 02:30",
+    "floor_total_power": 622.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 03:00",
+    "floor_total_power": 622.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 03:30",
+    "floor_total_power": 677.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 04:00",
+    "floor_total_power": 930.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 04:30",
+    "floor_total_power": 806.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 05:00",
+    "floor_total_power": 956.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 05:30",
+    "floor_total_power": 793.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 06:00",
+    "floor_total_power": 764.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 06:30",
+    "floor_total_power": 693.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 07:00",
+    "floor_total_power": 2434.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 07:30",
+    "floor_total_power": 1846.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 08:00",
+    "floor_total_power": 2956.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 08:30",
+    "floor_total_power": 2710.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 09:00",
+    "floor_total_power": 2807.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 09:30",
+    "floor_total_power": 2240.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 10:00",
+    "floor_total_power": 3049.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 10:30",
+    "floor_total_power": 2821.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 11:00",
+    "floor_total_power": 2697.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 11:30",
+    "floor_total_power": 2430.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 12:00",
+    "floor_total_power": 2407.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 12:30",
+    "floor_total_power": 2533.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 13:00",
+    "floor_total_power": 1923.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 13:30",
+    "floor_total_power": 2830.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 14:00",
+    "floor_total_power": 2358.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 14:30",
+    "floor_total_power": 2738.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 15:00",
+    "floor_total_power": 2792.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 15:30",
+    "floor_total_power": 2921.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 16:00",
+    "floor_total_power": 2519.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 16:30",
+    "floor_total_power": 2696.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 17:00",
+    "floor_total_power": 2582.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 17:30",
+    "floor_total_power": 2190.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 18:00",
+    "floor_total_power": 5241.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 18:30",
+    "floor_total_power": 5157.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 19:00",
+    "floor_total_power": 5901.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 19:30",
+    "floor_total_power": 5196.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 20:00",
+    "floor_total_power": 5337.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 20:30",
+    "floor_total_power": 5666.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 21:00",
+    "floor_total_power": 5622.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 21:30",
+    "floor_total_power": 5120.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 22:00",
+    "floor_total_power": 5183.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 22:30",
+    "floor_total_power": 5292.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 23:00",
+    "floor_total_power": 5790.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-15 23:30",
+    "floor_total_power": 5402.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 00:00",
+    "floor_total_power": 772.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 00:30",
+    "floor_total_power": 922.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 01:00",
+    "floor_total_power": 688.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 01:30",
+    "floor_total_power": 752.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 02:00",
+    "floor_total_power": 695.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 02:30",
+    "floor_total_power": 765.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 03:00",
+    "floor_total_power": 685.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 03:30",
+    "floor_total_power": 733.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 04:00",
+    "floor_total_power": 679.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 04:30",
+    "floor_total_power": 698.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 05:00",
+    "floor_total_power": 826.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 05:30",
+    "floor_total_power": 745.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 06:00",
+    "floor_total_power": 781.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 06:30",
+    "floor_total_power": 714.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 07:00",
+    "floor_total_power": 2712.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 07:30",
+    "floor_total_power": 3275.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 08:00",
+    "floor_total_power": 2548.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 08:30",
+    "floor_total_power": 2784.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 09:00",
+    "floor_total_power": 2671.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 09:30",
+    "floor_total_power": 2281.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 10:00",
+    "floor_total_power": 3181.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 10:30",
+    "floor_total_power": 2761.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 11:00",
+    "floor_total_power": 3058.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 11:30",
+    "floor_total_power": 2173.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 12:00",
+    "floor_total_power": 3248.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 12:30",
+    "floor_total_power": 3184.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 13:00",
+    "floor_total_power": 2842.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 13:30",
+    "floor_total_power": 2445.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 14:00",
+    "floor_total_power": 2699.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 14:30",
+    "floor_total_power": 2179.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 15:00",
+    "floor_total_power": 2381.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 15:30",
+    "floor_total_power": 2368.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 16:00",
+    "floor_total_power": 2951.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 16:30",
+    "floor_total_power": 2500.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 17:00",
+    "floor_total_power": 2796.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 17:30",
+    "floor_total_power": 2699.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 18:00",
+    "floor_total_power": 5546.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 18:30",
+    "floor_total_power": 5432.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 19:00",
+    "floor_total_power": 5094.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 19:30",
+    "floor_total_power": 5508.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 20:00",
+    "floor_total_power": 5448.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 20:30",
+    "floor_total_power": 4692.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 21:00",
+    "floor_total_power": 5523.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 21:30",
+    "floor_total_power": 6215.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 22:00",
+    "floor_total_power": 5162.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 22:30",
+    "floor_total_power": 5900.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 23:00",
+    "floor_total_power": 5887.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-16 23:30",
+    "floor_total_power": 5236.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 00:00",
+    "floor_total_power": 704.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 00:30",
+    "floor_total_power": 800.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 01:00",
+    "floor_total_power": 937.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 01:30",
+    "floor_total_power": 843.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 02:00",
+    "floor_total_power": 913.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 02:30",
+    "floor_total_power": 748.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 03:00",
+    "floor_total_power": 736.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 03:30",
+    "floor_total_power": 676.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 04:00",
+    "floor_total_power": 840.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 04:30",
+    "floor_total_power": 703.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 05:00",
+    "floor_total_power": 689.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 05:30",
+    "floor_total_power": 805.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 06:00",
+    "floor_total_power": 899.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 06:30",
+    "floor_total_power": 647.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 07:00",
+    "floor_total_power": 2657.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 07:30",
+    "floor_total_power": 2643.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 08:00",
+    "floor_total_power": 2417.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 08:30",
+    "floor_total_power": 2779.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 09:00",
+    "floor_total_power": 2805.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 09:30",
+    "floor_total_power": 2383.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 10:00",
+    "floor_total_power": 2448.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 10:30",
+    "floor_total_power": 2615.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 11:00",
+    "floor_total_power": 2942.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 11:30",
+    "floor_total_power": 2960.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 12:00",
+    "floor_total_power": 2358.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 12:30",
+    "floor_total_power": 2543.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 13:00",
+    "floor_total_power": 2454.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 13:30",
+    "floor_total_power": 2735.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 14:00",
+    "floor_total_power": 3185.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 14:30",
+    "floor_total_power": 2567.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 15:00",
+    "floor_total_power": 2456.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 15:30",
+    "floor_total_power": 2709.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 16:00",
+    "floor_total_power": 2544.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 16:30",
+    "floor_total_power": 2240.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 17:00",
+    "floor_total_power": 2350.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 17:30",
+    "floor_total_power": 2598.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 18:00",
+    "floor_total_power": 5468.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 18:30",
+    "floor_total_power": 5505.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 19:00",
+    "floor_total_power": 5616.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 19:30",
+    "floor_total_power": 5309.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 20:00",
+    "floor_total_power": 5077.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 20:30",
+    "floor_total_power": 5954.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 21:00",
+    "floor_total_power": 5286.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 21:30",
+    "floor_total_power": 5324.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 22:00",
+    "floor_total_power": 5690.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 22:30",
+    "floor_total_power": 5913.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 23:00",
+    "floor_total_power": 5703.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-17 23:30",
+    "floor_total_power": 4631.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 00:00",
+    "floor_total_power": 764.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 00:30",
+    "floor_total_power": 779.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 01:00",
+    "floor_total_power": 893.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 01:30",
+    "floor_total_power": 718.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 02:00",
+    "floor_total_power": 761.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 02:30",
+    "floor_total_power": 653.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 03:00",
+    "floor_total_power": 858.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 03:30",
+    "floor_total_power": 639.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 04:00",
+    "floor_total_power": 884.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 04:30",
+    "floor_total_power": 672.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 05:00",
+    "floor_total_power": 771.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 05:30",
+    "floor_total_power": 735.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 06:00",
+    "floor_total_power": 698.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 06:30",
+    "floor_total_power": 747.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 07:00",
+    "floor_total_power": 2268.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 07:30",
+    "floor_total_power": 2109.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 08:00",
+    "floor_total_power": 2601.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 08:30",
+    "floor_total_power": 2780.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 09:00",
+    "floor_total_power": 3086.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 09:30",
+    "floor_total_power": 2517.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 10:00",
+    "floor_total_power": 2001.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 10:30",
+    "floor_total_power": 2563.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 11:00",
+    "floor_total_power": 2611.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 11:30",
+    "floor_total_power": 2669.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 12:00",
+    "floor_total_power": 3008.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 12:30",
+    "floor_total_power": 2994.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 13:00",
+    "floor_total_power": 2948.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 13:30",
+    "floor_total_power": 2696.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 14:00",
+    "floor_total_power": 3127.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 14:30",
+    "floor_total_power": 2801.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 15:00",
+    "floor_total_power": 2683.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 15:30",
+    "floor_total_power": 2559.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 16:00",
+    "floor_total_power": 2470.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 16:30",
+    "floor_total_power": 2665.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 17:00",
+    "floor_total_power": 2945.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 17:30",
+    "floor_total_power": 2714.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 18:00",
+    "floor_total_power": 5511.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 18:30",
+    "floor_total_power": 5806.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 19:00",
+    "floor_total_power": 5858.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 19:30",
+    "floor_total_power": 5059.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 20:00",
+    "floor_total_power": 5033.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 20:30",
+    "floor_total_power": 5159.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 21:00",
+    "floor_total_power": 5312.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 21:30",
+    "floor_total_power": 4276.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 22:00",
+    "floor_total_power": 5716.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 22:30",
+    "floor_total_power": 6280.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 23:00",
+    "floor_total_power": 4963.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 4,
+    "time": "2026-05-18 23:30",
+    "floor_total_power": 5216.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 00:00",
+    "floor_total_power": 369.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 00:30",
+    "floor_total_power": 562.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 01:00",
+    "floor_total_power": 527.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 01:30",
+    "floor_total_power": 391.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 02:00",
+    "floor_total_power": 443.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 02:30",
+    "floor_total_power": 462.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 03:00",
+    "floor_total_power": 517.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 03:30",
+    "floor_total_power": 603.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 04:00",
+    "floor_total_power": 403.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 04:30",
+    "floor_total_power": 519.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 05:00",
+    "floor_total_power": 552.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 05:30",
+    "floor_total_power": 500.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 06:00",
+    "floor_total_power": 504.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 06:30",
+    "floor_total_power": 550.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 07:00",
+    "floor_total_power": 2930.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 07:30",
+    "floor_total_power": 2608.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 08:00",
+    "floor_total_power": 3310.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 08:30",
+    "floor_total_power": 2536.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 09:00",
+    "floor_total_power": 2584.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 09:30",
+    "floor_total_power": 2778.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 10:00",
+    "floor_total_power": 2522.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 10:30",
+    "floor_total_power": 2709.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 11:00",
+    "floor_total_power": 2550.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 11:30",
+    "floor_total_power": 2924.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 12:00",
+    "floor_total_power": 3257.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 12:30",
+    "floor_total_power": 4279.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 13:00",
+    "floor_total_power": 3941.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 13:30",
+    "floor_total_power": 4178.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 14:00",
+    "floor_total_power": 2775.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 14:30",
+    "floor_total_power": 2491.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 15:00",
+    "floor_total_power": 4383.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 15:30",
+    "floor_total_power": 4251.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 16:00",
+    "floor_total_power": 2432.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 16:30",
+    "floor_total_power": 2915.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 17:00",
+    "floor_total_power": 3698.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 17:30",
+    "floor_total_power": 3292.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 18:00",
+    "floor_total_power": 6912.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 18:30",
+    "floor_total_power": 7856.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 19:00",
+    "floor_total_power": 7410.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 19:30",
+    "floor_total_power": 6861.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 20:00",
+    "floor_total_power": 7215.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 20:30",
+    "floor_total_power": 6693.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 21:00",
+    "floor_total_power": 6926.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 21:30",
+    "floor_total_power": 6759.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 22:00",
+    "floor_total_power": 6391.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 22:30",
+    "floor_total_power": 7057.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 23:00",
+    "floor_total_power": 7096.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-12 23:30",
+    "floor_total_power": 6943.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 00:00",
+    "floor_total_power": 516.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 00:30",
+    "floor_total_power": 489.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 01:00",
+    "floor_total_power": 539.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 01:30",
+    "floor_total_power": 512.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 02:00",
+    "floor_total_power": 521.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 02:30",
+    "floor_total_power": 581.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 03:00",
+    "floor_total_power": 466.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 03:30",
+    "floor_total_power": 468.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 04:00",
+    "floor_total_power": 480.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 04:30",
+    "floor_total_power": 569.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 05:00",
+    "floor_total_power": 566.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 05:30",
+    "floor_total_power": 493.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 06:00",
+    "floor_total_power": 522.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 06:30",
+    "floor_total_power": 453.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 07:00",
+    "floor_total_power": 2815.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 07:30",
+    "floor_total_power": 3054.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 08:00",
+    "floor_total_power": 2516.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 08:30",
+    "floor_total_power": 2175.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 09:00",
+    "floor_total_power": 2375.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 09:30",
+    "floor_total_power": 2483.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 10:00",
+    "floor_total_power": 4389.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 10:30",
+    "floor_total_power": 2130.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 11:00",
+    "floor_total_power": 2688.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 11:30",
+    "floor_total_power": 3845.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 12:00",
+    "floor_total_power": 2605.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 12:30",
+    "floor_total_power": 2412.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 13:00",
+    "floor_total_power": 2430.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 13:30",
+    "floor_total_power": 2846.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 14:00",
+    "floor_total_power": 3990.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 14:30",
+    "floor_total_power": 4048.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 15:00",
+    "floor_total_power": 2938.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 15:30",
+    "floor_total_power": 2546.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 16:00",
+    "floor_total_power": 2745.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 16:30",
+    "floor_total_power": 4317.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 17:00",
+    "floor_total_power": 4449.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 17:30",
+    "floor_total_power": 3837.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 18:00",
+    "floor_total_power": 6903.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 18:30",
+    "floor_total_power": 6768.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 19:00",
+    "floor_total_power": 7083.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 19:30",
+    "floor_total_power": 6943.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 20:00",
+    "floor_total_power": 7391.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 20:30",
+    "floor_total_power": 6844.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 21:00",
+    "floor_total_power": 7549.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 21:30",
+    "floor_total_power": 7239.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 22:00",
+    "floor_total_power": 7243.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 22:30",
+    "floor_total_power": 6338.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 23:00",
+    "floor_total_power": 6565.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-13 23:30",
+    "floor_total_power": 5690.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 00:00",
+    "floor_total_power": 490.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 00:30",
+    "floor_total_power": 466.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 01:00",
+    "floor_total_power": 548.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 01:30",
+    "floor_total_power": 568.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 02:00",
+    "floor_total_power": 524.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 02:30",
+    "floor_total_power": 443.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 03:00",
+    "floor_total_power": 399.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 03:30",
+    "floor_total_power": 507.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 04:00",
+    "floor_total_power": 511.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 04:30",
+    "floor_total_power": 608.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 05:00",
+    "floor_total_power": 540.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 05:30",
+    "floor_total_power": 504.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 06:00",
+    "floor_total_power": 441.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 06:30",
+    "floor_total_power": 532.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 07:00",
+    "floor_total_power": 4110.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 07:30",
+    "floor_total_power": 3990.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 08:00",
+    "floor_total_power": 2306.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 08:30",
+    "floor_total_power": 3805.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 09:00",
+    "floor_total_power": 3130.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 09:30",
+    "floor_total_power": 4326.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 10:00",
+    "floor_total_power": 2498.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 10:30",
+    "floor_total_power": 4572.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 11:00",
+    "floor_total_power": 2597.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 11:30",
+    "floor_total_power": 2318.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 12:00",
+    "floor_total_power": 3673.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 12:30",
+    "floor_total_power": 2572.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 13:00",
+    "floor_total_power": 2698.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 13:30",
+    "floor_total_power": 2724.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 14:00",
+    "floor_total_power": 2527.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 14:30",
+    "floor_total_power": 2545.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 15:00",
+    "floor_total_power": 4088.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 15:30",
+    "floor_total_power": 3137.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 16:00",
+    "floor_total_power": 3998.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 16:30",
+    "floor_total_power": 2866.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 17:00",
+    "floor_total_power": 2996.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 17:30",
+    "floor_total_power": 2541.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 18:00",
+    "floor_total_power": 6214.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 18:30",
+    "floor_total_power": 6982.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 19:00",
+    "floor_total_power": 5736.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 19:30",
+    "floor_total_power": 7178.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 20:00",
+    "floor_total_power": 7365.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 20:30",
+    "floor_total_power": 7906.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 21:00",
+    "floor_total_power": 6361.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 21:30",
+    "floor_total_power": 6668.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 22:00",
+    "floor_total_power": 5732.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 22:30",
+    "floor_total_power": 6251.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 23:00",
+    "floor_total_power": 6436.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-14 23:30",
+    "floor_total_power": 6767.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 00:00",
+    "floor_total_power": 438.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 00:30",
+    "floor_total_power": 553.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 01:00",
+    "floor_total_power": 443.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 01:30",
+    "floor_total_power": 512.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 02:00",
+    "floor_total_power": 485.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 02:30",
+    "floor_total_power": 565.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 03:00",
+    "floor_total_power": 478.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 03:30",
+    "floor_total_power": 430.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 04:00",
+    "floor_total_power": 590.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 04:30",
+    "floor_total_power": 420.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 05:00",
+    "floor_total_power": 593.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 05:30",
+    "floor_total_power": 522.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 06:00",
+    "floor_total_power": 544.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 06:30",
+    "floor_total_power": 516.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 07:00",
+    "floor_total_power": 3115.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 07:30",
+    "floor_total_power": 2574.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 08:00",
+    "floor_total_power": 3766.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 08:30",
+    "floor_total_power": 2456.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 09:00",
+    "floor_total_power": 2308.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 09:30",
+    "floor_total_power": 3098.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 10:00",
+    "floor_total_power": 2730.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 10:30",
+    "floor_total_power": 4486.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 11:00",
+    "floor_total_power": 2204.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 11:30",
+    "floor_total_power": 2815.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 12:00",
+    "floor_total_power": 2540.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 12:30",
+    "floor_total_power": 2611.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 13:00",
+    "floor_total_power": 3349.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 13:30",
+    "floor_total_power": 4078.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 14:00",
+    "floor_total_power": 3291.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 14:30",
+    "floor_total_power": 2674.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 15:00",
+    "floor_total_power": 4476.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 15:30",
+    "floor_total_power": 3114.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 16:00",
+    "floor_total_power": 4250.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 16:30",
+    "floor_total_power": 2751.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 17:00",
+    "floor_total_power": 2735.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 17:30",
+    "floor_total_power": 3946.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 18:00",
+    "floor_total_power": 7846.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 18:30",
+    "floor_total_power": 6284.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 19:00",
+    "floor_total_power": 7163.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 19:30",
+    "floor_total_power": 6457.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 20:00",
+    "floor_total_power": 6361.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 20:30",
+    "floor_total_power": 7612.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 21:00",
+    "floor_total_power": 6754.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 21:30",
+    "floor_total_power": 7413.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 22:00",
+    "floor_total_power": 6509.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 22:30",
+    "floor_total_power": 5878.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 23:00",
+    "floor_total_power": 6893.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-15 23:30",
+    "floor_total_power": 6881.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 00:00",
+    "floor_total_power": 602.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 00:30",
+    "floor_total_power": 501.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 01:00",
+    "floor_total_power": 509.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 01:30",
+    "floor_total_power": 528.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 02:00",
+    "floor_total_power": 517.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 02:30",
+    "floor_total_power": 451.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 03:00",
+    "floor_total_power": 538.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 03:30",
+    "floor_total_power": 412.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 04:00",
+    "floor_total_power": 635.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 04:30",
+    "floor_total_power": 547.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 05:00",
+    "floor_total_power": 467.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 05:30",
+    "floor_total_power": 509.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 06:00",
+    "floor_total_power": 508.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 06:30",
+    "floor_total_power": 457.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 07:00",
+    "floor_total_power": 4531.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 07:30",
+    "floor_total_power": 2569.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 08:00",
+    "floor_total_power": 2937.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 08:30",
+    "floor_total_power": 4108.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 09:00",
+    "floor_total_power": 3861.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 09:30",
+    "floor_total_power": 2688.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 10:00",
+    "floor_total_power": 2979.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 10:30",
+    "floor_total_power": 4470.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 11:00",
+    "floor_total_power": 3183.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 11:30",
+    "floor_total_power": 2708.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 12:00",
+    "floor_total_power": 3831.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 12:30",
+    "floor_total_power": 2839.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 13:00",
+    "floor_total_power": 3286.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 13:30",
+    "floor_total_power": 2335.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 14:00",
+    "floor_total_power": 2700.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 14:30",
+    "floor_total_power": 4096.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 15:00",
+    "floor_total_power": 2778.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 15:30",
+    "floor_total_power": 3824.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 16:00",
+    "floor_total_power": 2691.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 16:30",
+    "floor_total_power": 2976.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 17:00",
+    "floor_total_power": 4628.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 17:30",
+    "floor_total_power": 4050.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 18:00",
+    "floor_total_power": 6253.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 18:30",
+    "floor_total_power": 7364.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 19:00",
+    "floor_total_power": 6492.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 19:30",
+    "floor_total_power": 7998.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 20:00",
+    "floor_total_power": 6846.4,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 20:30",
+    "floor_total_power": 7281.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 21:00",
+    "floor_total_power": 7571.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 21:30",
+    "floor_total_power": 7091.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 22:00",
+    "floor_total_power": 7704.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 22:30",
+    "floor_total_power": 7062.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 23:00",
+    "floor_total_power": 6505.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-16 23:30",
+    "floor_total_power": 7133.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 00:00",
+    "floor_total_power": 563.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 00:30",
+    "floor_total_power": 434.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 01:00",
+    "floor_total_power": 546.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 01:30",
+    "floor_total_power": 541.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 02:00",
+    "floor_total_power": 409.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 02:30",
+    "floor_total_power": 537.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 03:00",
+    "floor_total_power": 415.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 03:30",
+    "floor_total_power": 481.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 04:00",
+    "floor_total_power": 475.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 04:30",
+    "floor_total_power": 480.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 05:00",
+    "floor_total_power": 450.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 05:30",
+    "floor_total_power": 489.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 06:00",
+    "floor_total_power": 413.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 06:30",
+    "floor_total_power": 582.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 07:00",
+    "floor_total_power": 2032.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 07:30",
+    "floor_total_power": 4073.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 08:00",
+    "floor_total_power": 4338.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 08:30",
+    "floor_total_power": 4201.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 09:00",
+    "floor_total_power": 2877.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 09:30",
+    "floor_total_power": 3866.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 10:00",
+    "floor_total_power": 2777.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 10:30",
+    "floor_total_power": 2729.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 11:00",
+    "floor_total_power": 2618.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 11:30",
+    "floor_total_power": 2760.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 12:00",
+    "floor_total_power": 2623.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 12:30",
+    "floor_total_power": 2432.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 13:00",
+    "floor_total_power": 2335.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 13:30",
+    "floor_total_power": 4353.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 14:00",
+    "floor_total_power": 2300.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 14:30",
+    "floor_total_power": 2781.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 15:00",
+    "floor_total_power": 2665.5,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 15:30",
+    "floor_total_power": 2245.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 16:00",
+    "floor_total_power": 3873.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 16:30",
+    "floor_total_power": 4733.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 17:00",
+    "floor_total_power": 2590.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 17:30",
+    "floor_total_power": 3823.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 18:00",
+    "floor_total_power": 6417.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 18:30",
+    "floor_total_power": 5969.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 19:00",
+    "floor_total_power": 6747.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 19:30",
+    "floor_total_power": 7965.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 20:00",
+    "floor_total_power": 6916.7,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 20:30",
+    "floor_total_power": 6951.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 21:00",
+    "floor_total_power": 6779.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 21:30",
+    "floor_total_power": 6264.6,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 22:00",
+    "floor_total_power": 7510.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 22:30",
+    "floor_total_power": 7560.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 23:00",
+    "floor_total_power": 6903.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-17 23:30",
+    "floor_total_power": 6411.0,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 00:00",
+    "floor_total_power": 447.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 00:30",
+    "floor_total_power": 555.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 01:00",
+    "floor_total_power": 459.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 01:30",
+    "floor_total_power": 482.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 02:00",
+    "floor_total_power": 444.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 02:30",
+    "floor_total_power": 579.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 03:00",
+    "floor_total_power": 490.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 03:30",
+    "floor_total_power": 586.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 04:00",
+    "floor_total_power": 438.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 04:30",
+    "floor_total_power": 580.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 05:00",
+    "floor_total_power": 484.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 05:30",
+    "floor_total_power": 520.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 06:00",
+    "floor_total_power": 660.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 06:30",
+    "floor_total_power": 463.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 07:00",
+    "floor_total_power": 2296.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 07:30",
+    "floor_total_power": 2743.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 08:00",
+    "floor_total_power": 4192.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 08:30",
+    "floor_total_power": 2519.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 09:00",
+    "floor_total_power": 2732.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 09:30",
+    "floor_total_power": 2998.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 10:00",
+    "floor_total_power": 2688.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 10:30",
+    "floor_total_power": 2747.1,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 11:00",
+    "floor_total_power": 3970.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 11:30",
+    "floor_total_power": 2949.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 12:00",
+    "floor_total_power": 2734.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 12:30",
+    "floor_total_power": 4252.4,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 13:00",
+    "floor_total_power": 2399.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 13:30",
+    "floor_total_power": 2846.8,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 14:00",
+    "floor_total_power": 2548.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 14:30",
+    "floor_total_power": 3173.9,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 15:00",
+    "floor_total_power": 2556.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 15:30",
+    "floor_total_power": 2556.2,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 16:00",
+    "floor_total_power": 3809.3,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 16:30",
+    "floor_total_power": 2671.0,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 17:00",
+    "floor_total_power": 2388.7,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 17:30",
+    "floor_total_power": 4668.6,
+    "risk_level": "低"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 18:00",
+    "floor_total_power": 7163.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 18:30",
+    "floor_total_power": 6607.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 19:00",
+    "floor_total_power": 7145.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 19:30",
+    "floor_total_power": 6287.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 20:00",
+    "floor_total_power": 7030.5,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 20:30",
+    "floor_total_power": 6705.2,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 21:00",
+    "floor_total_power": 7395.3,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 21:30",
+    "floor_total_power": 6333.1,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 22:00",
+    "floor_total_power": 6198.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 22:30",
+    "floor_total_power": 6756.8,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 23:00",
+    "floor_total_power": 7095.9,
+    "risk_level": "中"
+  },
+  {
+    "floor": 5,
+    "time": "2026-05-18 23:30",
+    "floor_total_power": 6365.3,
+    "risk_level": "中"
+  }
+]
