@@ -21,19 +21,21 @@ async function request(path) {
 
 function setStatus(online, text) {
   const status = $("apiStatus");
-  status.textContent = text;
+  status.innerHTML = `<span class="pulse"></span> ${text}`;
   status.classList.toggle("online", online);
   status.classList.toggle("offline", !online);
 }
 
 function renderOverview(overview) {
   $("dormCount").textContent = overview.dorm_count;
+  $("dormCountMirror").textContent = overview.dorm_count;
   $("buildingInfo").textContent = `${overview.building}栋 / ${overview.floor_count}层`;
-  $("currentPower").textContent = formatPower(overview.current_total_power);
+  $("currentPower").textContent = Number(overview.current_total_power || 0).toFixed(1);
   $("latestTime").textContent = overview.latest_time;
   $("currentAbnormal").textContent = overview.current_abnormal_count;
+  $("currentAbnormalMirror").textContent = overview.current_abnormal_count;
   $("highRiskCount").textContent = overview.current_high_risk_count;
-  $("totalEnergy").textContent = formatEnergy(overview.total_energy);
+  $("totalEnergy").textContent = Number(overview.total_energy || 0).toFixed(2);
   $("abnormalTotal").textContent = overview.abnormal_record_count;
 }
 
@@ -41,10 +43,10 @@ function renderFloors(floors) {
   $("floorCards").innerHTML = floors
     .map(
       (item) => `
-        <article class="floor-card">
+        <article class="module-pill floor-card">
           <span>${item.floor}楼</span>
           <strong>${formatPower(item.floor_total_power)}</strong>
-          <span class="tag ${riskClass(item.risk_level)}">${item.risk_level}</span>
+          <span class="risk-tag ${riskClass(item.risk_level)}">${item.risk_level}</span>
           <p>异常记录 ${item.abnormal_count} 条</p>
         </article>
       `,
@@ -85,7 +87,7 @@ function renderAbnormalTable(records) {
           <td>${item.floor}楼</td>
           <td>${formatPower(item.power)}</td>
           <td>${item.abnormal_type}</td>
-          <td><span class="tag ${riskClass(item.risk_level)}">${item.risk_level}</span></td>
+          <td><span class="risk-tag ${riskClass(item.risk_level)}">${item.risk_level}</span></td>
           <td>${item.suggestion}</td>
         </tr>
       `,
@@ -99,7 +101,7 @@ function renderPredictions(records) {
     .map(
       (item) => `
         <div class="compact-item">
-          <span class="tag ${riskClass(item.risk_level)}">${item.risk_level}</span>
+          <span class="risk-tag ${riskClass(item.risk_level)}">${item.risk_level}</span>
           <div>
             <strong>${item.floor}楼 ${item.time}</strong>
             <p>当前 ${formatPower(item.current_load)}，预测 ${formatPower(item.predicted_load)}</p>
@@ -116,7 +118,7 @@ function renderSuggestions(records) {
     .map(
       (item) => `
         <div class="compact-item">
-          <span class="tag ${riskClass(item.risk_level)}">${item.risk_level}</span>
+          <span class="risk-tag ${riskClass(item.risk_level)}">${item.risk_level}</span>
           <div>
             <strong>${item.dorm_id} · ${item.abnormal_type}</strong>
             <p>${item.suggestion}</p>

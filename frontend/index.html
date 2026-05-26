@@ -3,74 +3,115 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>宿舍能源协同管理系统 - 教师端</title>
+    <title>AIoT 智慧宿舍能源管理端</title>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <header class="topbar">
-      <div>
-        <p class="eyebrow">Teacher Management Dashboard</p>
-        <h1>宿舍能源协同管理系统</h1>
-      </div>
-      <div class="toolbar">
-        <span id="apiStatus" class="status-dot">连接中</span>
-        <button id="refreshBtn" type="button">刷新数据</button>
-      </div>
-    </header>
-
-    <main>
-      <section class="summary-grid" aria-label="系统总览">
-        <article class="metric">
-          <span>宿舍数量</span>
-          <strong id="dormCount">--</strong>
-          <small id="buildingInfo">A栋 / 5层</small>
-        </article>
-        <article class="metric">
-          <span>当前总功率</span>
-          <strong id="currentPower">--</strong>
-          <small>最新采集时刻 <b id="latestTime">--</b></small>
-        </article>
-        <article class="metric warn">
-          <span>当前异常</span>
-          <strong id="currentAbnormal">--</strong>
-          <small>高风险 <b id="highRiskCount">--</b> 条</small>
-        </article>
-        <article class="metric">
-          <span>累计用电</span>
-          <strong id="totalEnergy">--</strong>
-          <small>异常记录 <b id="abnormalTotal">--</b> 条</small>
-        </article>
-      </section>
-
-      <section class="layout">
-        <div class="panel wide">
-          <div class="panel-head">
-            <div>
-              <h2>楼层负载状态</h2>
-              <p>教师端按楼层查看当前负载与风险等级</p>
-            </div>
+    <main class="app">
+      <header class="topbar">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M13 2 4 14h7l-1 8 9-12h-7l1-8Z"></path>
+            </svg>
           </div>
-          <div id="floorCards" class="floor-grid"></div>
-        </div>
-
-        <div class="panel">
-          <div class="panel-head">
-            <div>
-              <h2>能耗排行</h2>
-              <p>按宿舍累计用电排序</p>
-            </div>
-          </div>
-          <div id="rankingList" class="ranking-list"></div>
-        </div>
-      </section>
-
-      <section class="panel">
-        <div class="panel-head table-head">
           <div>
-            <h2>异常宿舍报警</h2>
-            <p>支持按楼层、风险等级和异常类型筛选</p>
+            <h1>AIoT 智慧宿舍能源管理端</h1>
+            <p class="subtitle">教师端网页原型 · 对接算法端 JSON 数据 · 管理后台展示版</p>
           </div>
-          <div class="filters">
+        </div>
+
+        <nav class="nav-links" aria-label="页面导航">
+          <a href="#overview" class="active">管理概览</a>
+          <a href="#floors">楼层负载</a>
+          <a href="#alerts">异常报警</a>
+          <a href="#predictions">高峰预测</a>
+          <a href="#suggestions">节能建议</a>
+        </nav>
+
+        <div class="top-actions">
+          <div id="apiStatus" class="status-pill"><span class="pulse"></span> 连接中</div>
+          <button id="refreshBtn" class="query-button" type="button">刷新</button>
+        </div>
+      </header>
+
+      <section class="module-strip" aria-label="教师端核心功能">
+        <div class="module-pill"><span>模块 01</span><b>整栋宿舍能耗监控</b></div>
+        <div class="module-pill"><span>模块 02</span><b>楼层负载状态显示</b></div>
+        <div class="module-pill"><span>模块 03</span><b>异常宿舍报警筛选</b></div>
+        <div class="module-pill"><span>模块 04</span><b>高峰负载与节能建议</b></div>
+      </section>
+
+      <section class="manager-grid" id="overview">
+        <article class="panel live-panel manager-hero">
+          <div class="panel-header">
+            <h2 class="module-title"><span class="module-index">01</span>教师端管理概览</h2>
+            <span class="panel-note">实时读取后端 /api/teacher/dashboard</span>
+          </div>
+          <div class="overview-main">
+            <div>
+              <div class="room">当前楼栋：<span id="buildingInfo">A栋 / 5层</span></div>
+              <div class="watts"><strong id="currentPower">--</strong><span>W</span></div>
+              <div class="readout-meta">
+                <span class="mini-chip">宿舍数量 <b id="dormCount">--</b></span>
+                <span class="mini-chip">最新时刻 <b id="latestTime">--</b></span>
+                <span class="mini-chip">异常记录 <b id="abnormalTotal">--</b> 条</span>
+              </div>
+            </div>
+            <div class="risk-box">
+              <span>当前异常</span>
+              <strong id="currentAbnormal">--</strong>
+              <p>其中高风险 <b id="highRiskCount">--</b> 条</p>
+            </div>
+          </div>
+          <div class="metric-grid">
+            <div class="metric">
+              <label>累计用电</label>
+              <strong id="totalEnergy">--</strong><span>kWh</span>
+            </div>
+            <div class="metric">
+              <label>宿舍总数</label>
+              <strong id="dormCountMirror">--</strong><span>间</span>
+            </div>
+            <div class="metric">
+              <label>当前异常</label>
+              <span class="status-text" id="currentAbnormalMirror">--</span>
+            </div>
+            <div class="metric">
+              <label>数据角色</label>
+              <strong class="role-text">教师端</strong>
+            </div>
+          </div>
+        </article>
+
+        <aside class="side">
+          <article class="panel">
+            <div class="panel-header">
+              <h2 class="module-title"><span class="module-index">A</span>能耗排行</h2>
+              <span class="panel-note">Top 10</span>
+            </div>
+            <div id="rankingList" class="ranking-list"></div>
+          </article>
+        </aside>
+      </section>
+
+      <section class="panel floor-panel" id="floors">
+        <div class="panel-header">
+          <h2 class="module-title"><span class="module-index">02</span>楼层负载状态</h2>
+          <span class="panel-note">按楼层聚合当前负载和异常数量</span>
+        </div>
+        <div id="floorCards" class="module-strip floor-strip"></div>
+      </section>
+
+      <section class="panel query-panel" id="alerts">
+        <div class="panel-header">
+          <h2 class="module-title"><span class="module-index">03</span>异常宿舍报警</h2>
+          <span class="panel-note">支持按楼层、风险等级、异常类型筛选</span>
+        </div>
+
+        <div class="query-filters teacher-filters">
+          <label>
+            <span>楼层</span>
             <select id="floorFilter" aria-label="楼层筛选">
               <option value="">全部楼层</option>
               <option value="1">1楼</option>
@@ -79,27 +120,34 @@
               <option value="4">4楼</option>
               <option value="5">5楼</option>
             </select>
+          </label>
+          <label>
+            <span>风险等级</span>
             <select id="riskFilter" aria-label="风险筛选">
               <option value="">全部风险</option>
               <option value="中">中风险</option>
               <option value="高">高风险</option>
             </select>
+          </label>
+          <label>
+            <span>异常类型</span>
             <select id="typeFilter" aria-label="异常类型筛选">
               <option value="">全部类型</option>
               <option value="无人宿舍耗电">无人宿舍耗电</option>
               <option value="疑似高功率违规用电">高功率违规</option>
               <option value="楼层过载风险">楼层过载</option>
             </select>
-          </div>
+          </label>
         </div>
+
         <div class="table-wrap">
-          <table>
+          <table class="data-table">
             <thead>
               <tr>
                 <th>时间</th>
                 <th>宿舍</th>
                 <th>楼层</th>
-                <th>功率</th>
+                <th>功率(W)</th>
                 <th>异常类型</th>
                 <th>风险</th>
                 <th>处理建议</th>
@@ -110,26 +158,26 @@
         </div>
       </section>
 
-      <section class="layout">
-        <div class="panel">
-          <div class="panel-head">
-            <div>
-              <h2>高峰负载预测</h2>
-              <p>展示算法端输出的楼层预测结果</p>
-            </div>
+      <section class="content-grid bottom-grid">
+        <article class="panel" id="predictions">
+          <div class="panel-header">
+            <h2 class="module-title"><span class="module-index">04</span>高峰负载预测</h2>
+            <span class="panel-note">高风险优先</span>
           </div>
-          <div id="predictionList" class="compact-list"></div>
-        </div>
+          <div id="predictionList" class="notice-list"></div>
+        </article>
 
-        <div class="panel">
-          <div class="panel-head">
-            <div>
-              <h2>节能建议</h2>
-              <p>面向教师端的处理提醒</p>
-            </div>
+        <article class="panel" id="suggestions">
+          <div class="panel-header">
+            <h2 class="module-title"><span class="module-index">05</span>节能建议</h2>
+            <span class="panel-note">异常处理提醒</span>
           </div>
-          <div id="suggestionList" class="compact-list"></div>
-        </div>
+          <div id="suggestionList" class="advice-list"></div>
+        </article>
+      </section>
+
+      <section class="footer-script">
+        <b>教师端说明：</b>本页面只负责管理端展示和查询；异常判断、风险等级和建议文本均来自算法端输出，后端负责读取、筛选和统计。
       </section>
     </main>
 
