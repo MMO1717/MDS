@@ -21,6 +21,30 @@ MDS/
 
 提供宿舍用电数据采集、异常检测、负载预测等功能。
 
+## 一键启动
+
+macOS 下可以直接双击项目根目录的：
+
+```text
+start.command
+```
+
+也可以在终端运行：
+
+```bash
+cd /Users/mm/Desktop/创新期中
+./start.sh
+```
+
+脚本会自动启动：
+
+- 教师端后端：`http://localhost:8000`
+- 静态前端服务：`http://localhost:8080`
+- 教师端页面：`http://localhost:8080/frontend/index.html`
+- 学生端页面：`http://localhost:8080/frontend/student.html`
+
+使用时保持终端窗口打开；按 `Ctrl+C` 可以停止服务。
+
 ### 启动
 
 ```bash
