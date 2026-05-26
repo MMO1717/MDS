@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>宿舍能源协同管理系统 - 教师端</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Teacher Management Dashboard</p>
+        <h1>宿舍能源协同管理系统</h1>
+      </div>
+      <div class="toolbar">
+        <span id="apiStatus" class="status-dot">连接中</span>
+        <button id="refreshBtn" type="button">刷新数据</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary-grid" aria-label="系统总览">
+        <article class="metric">
+          <span>宿舍数量</span>
+          <strong id="dormCount">--</strong>
+          <small id="buildingInfo">A栋 / 5层</small>
+        </article>
+        <article class="metric">
+          <span>当前总功率</span>
+          <strong id="currentPower">--</strong>
+          <small>最新采集时刻 <b id="latestTime">--</b></small>
+        </article>
+        <article class="metric warn">
+          <span>当前异常</span>
+          <strong id="currentAbnormal">--</strong>
+          <small>高风险 <b id="highRiskCount">--</b> 条</small>
+        </article>
+        <article class="metric">
+          <span>累计用电</span>
+          <strong id="totalEnergy">--</strong>
+          <small>异常记录 <b id="abnormalTotal">--</b> 条</small>
+        </article>
+      </section>
+
+      <section class="layout">
+        <div class="panel wide">
+          <div class="panel-head">
+            <div>
+              <h2>楼层负载状态</h2>
+              <p>教师端按楼层查看当前负载与风险等级</p>
+            </div>
+          </div>
+          <div id="floorCards" class="floor-grid"></div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head">
+            <div>
+              <h2>能耗排行</h2>
+              <p>按宿舍累计用电排序</p>
+            </div>
+          </div>
+          <div id="rankingList" class="ranking-list"></div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head table-head">
+          <div>
+            <h2>异常宿舍报警</h2>
+            <p>支持按楼层、风险等级和异常类型筛选</p>
+          </div>
+          <div class="filters">
+            <select id="floorFilter" aria-label="楼层筛选">
+              <option value="">全部楼层</option>
+              <option value="1">1楼</option>
+              <option value="2">2楼</option>
+              <option value="3">3楼</option>
+              <option value="4">4楼</option>
+              <option value="5">5楼</option>
+            </select>
+            <select id="riskFilter" aria-label="风险筛选">
+              <option value="">全部风险</option>
+              <option value="中">中风险</option>
+              <option value="高">高风险</option>
+            </select>
+            <select id="typeFilter" aria-label="异常类型筛选">
+              <option value="">全部类型</option>
+              <option value="无人宿舍耗电">无人宿舍耗电</option>
+              <option value="疑似高功率违规用电">高功率违规</option>
+              <option value="楼层过载风险">楼层过载</option>
+            </select>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>时间</th>
+                <th>宿舍</th>
+                <th>楼层</th>
+                <th>功率</th>
+                <th>异常类型</th>
+                <th>风险</th>
+                <th>处理建议</th>
+              </tr>
+            </thead>
+            <tbody id="abnormalTable"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="layout">
+        <div class="panel">
+          <div class="panel-head">
+            <div>
+              <h2>高峰负载预测</h2>
+              <p>展示算法端输出的楼层预测结果</p>
+            </div>
+          </div>
+          <div id="predictionList" class="compact-list"></div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-head">
+            <div>
+              <h2>节能建议</h2>
+              <p>面向教师端的处理提醒</p>
+            </div>
+          </div>
+          <div id="suggestionList" class="compact-list"></div>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
