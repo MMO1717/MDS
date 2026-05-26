@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.anthropic.com)",
+      "WebSearch",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "WebFetch(domain:flask.palletsprojects.com)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "WebFetch(domain:pytorch.org)",
+      "WebFetch(domain:docs.pytorch.org)",
+      "Bash(source:*)",
+      "Bash(pip uninstall:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
