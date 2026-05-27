@@ -12,8 +12,12 @@ MDS/
 │   ├── app.py          # API服务
 │   ├── generate_data.py # 数据生成
 │   └── 算法端输出/      # JSON数据和文档
-├── backend/            # 后端（待开发）
-├── frontend/           # 前端（待开发）
+├── backend/            # 教师端后端（Spring Boot）
+│   ├── pom.xml
+│   └── src/main/
+├── frontend/           # 教师端前端（静态组件化页面）
+│   ├── index.html
+│   └── src/
 └── README.md
 ```
 
@@ -34,8 +38,44 @@ python3 app.py
 
 ## 后端
 
-待开发
+教师端后端采用 Spring Boot，与学生端后端保持一致的 Maven 项目结构。
+
+### 启动
+
+```bash
+cd backend
+mvn spring-boot:run
+```
+
+服务地址：
+
+```text
+http://localhost:8080
+```
+
+主要接口：
+
+```text
+GET /api/teacher/dashboard
+GET /api/teacher/abnormal
+GET /api/teacher/predictions
+GET /api/teacher/suggestions
+```
 
 ## 前端
 
-待开发
+教师端前端采用和学生端一致的静态组件化结构：
+
+```text
+frontend/index.html
+frontend/src/styles/main.css
+frontend/src/teacher/services/
+frontend/src/teacher/components/
+frontend/src/teacher/app.js
+```
+
+启动后端后，直接打开：
+
+```text
+frontend/index.html
+```

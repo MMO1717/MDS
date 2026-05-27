@@ -1,12 +1,14 @@
-# 教师端前端说明
+# Frontend - Teacher Page
 
 本目录是宿舍能源协同管理系统的教师端 / 后勤管理端前端页面。
 
-它是一个静态页面，不需要安装 Node.js、Vue 或其他依赖。页面会请求后端：
+实现方式已经调整为和学生端一致：
 
-```text
-http://localhost:8000
-```
+- `index.html` 只作为入口文件
+- `src/styles/main.css` 存放页面样式
+- `src/teacher/services/` 存放接口配置和请求逻辑
+- `src/teacher/components/` 存放页面组件
+- `src/teacher/app.js` 负责组装页面和绑定事件
 
 ## 使用步骤
 
@@ -14,7 +16,7 @@ http://localhost:8000
 
 ```powershell
 cd "C:\Users\Sansuf\Desktop\学校资料\创新创业\MDS\backend"
-C:\Users\Sansuf\miniconda3\python.exe app.py
+mvn spring-boot:run
 ```
 
 再打开前端文件：
@@ -23,7 +25,17 @@ C:\Users\Sansuf\miniconda3\python.exe app.py
 frontend/index.html
 ```
 
-也可以在浏览器地址栏输入本地文件路径打开。
+页面默认请求：
+
+```text
+http://localhost:8080
+```
+
+配置位置：
+
+```text
+frontend/src/teacher/services/config.js
+```
 
 ## 页面功能
 
@@ -44,4 +56,4 @@ frontend/index.html
 - `GET /api/teacher/predictions`
 - `GET /api/teacher/suggestions`
 
-后端由 `backend/app.py` 提供。
+后端由 `backend` 目录下的 Spring Boot 服务提供。

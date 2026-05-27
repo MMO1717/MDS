@@ -1,6 +1,8 @@
-# 教师端后端说明
+# Backend - Teacher API
 
-本后端面向教师端 / 后勤管理端，负责读取算法端已经生成好的 5 个 JSON 文件，并提供查询、筛选、分页和统计接口。
+本后端采用和学生端后端一致的 Spring Boot + Maven 结构。
+
+它面向教师端 / 后勤管理端，负责读取算法端已经生成好的 5 个 JSON 文件，并提供查询、筛选、分页和统计接口。
 
 算法端负责异常判定和建议生成；教师端后端负责数据管理与 API 输出。
 
@@ -8,20 +10,18 @@
 
 ```bash
 cd backend
-python app.py
+mvn spring-boot:run
 ```
 
 默认服务地址：
 
 ```text
-http://localhost:8000
+http://localhost:8080
 ```
-
-说明：当前实现只依赖 Python 标准库，不需要额外安装 Flask / FastAPI。
 
 ## 数据来源
 
-读取目录：
+默认读取：
 
 ```text
 ../algorithm/算法端输出/
@@ -35,6 +35,12 @@ http://localhost:8000
 - `load_prediction_result.json`：高峰预测
 - `suggestion_data.json`：节能建议
 
+如需修改数据目录，可调整：
+
+```text
+src/main/resources/application.properties
+```
+
 ## 教师端接口
 
 | 接口 | 说明 |
@@ -44,7 +50,7 @@ http://localhost:8000
 | `GET /api/teacher/overview` | 教师端首页统计卡片 |
 | `GET /api/teacher/dashboard` | 首页汇总：统计、楼层概览、能耗排行 |
 | `GET /api/teacher/dorms` | 宿舍用电明细 |
-| `GET /api/teacher/dorms/<dorm_id>` | 单个宿舍汇总 |
+| `GET /api/teacher/dorms/{dorm_id}` | 单个宿舍汇总 |
 | `GET /api/teacher/abnormal` | 异常宿舍记录 |
 | `GET /api/teacher/floor-load` | 楼层负载历史 |
 | `GET /api/teacher/floor-summary` | 各楼层最新状态 |
@@ -53,8 +59,6 @@ http://localhost:8000
 | `GET /api/teacher/rankings/energy` | 宿舍累计能耗排行 |
 
 ## 常用查询参数
-
-列表接口支持：
 
 - `page`：页码，默认 1
 - `page_size`：每页数量，默认 20，最大 200
@@ -73,13 +77,3 @@ GET /api/teacher/dorms/A101
 GET /api/teacher/predictions?risk_level=高
 GET /api/teacher/rankings/energy?limit=10
 ```
-
-## 分工说明
-
-教师端后端主要负责：
-
-1. 读取算法端输出的宿舍能源数据。
-2. 为教师端首页提供统计数据。
-3. 支持异常记录、楼层负载、高峰预测和节能建议查询。
-4. 支持按楼层、宿舍、风险等级、异常类型和时间筛选。
-5. 为前端图表、报警列表和能耗排行提供 API。
