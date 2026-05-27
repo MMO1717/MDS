@@ -12,6 +12,7 @@ window.EnergyApp = window.EnergyApp || {};
     Alerts,
     EnergyQuery,
     attachEnergyQuery,
+    attachPlugControl,
     updateLivePower,
     renderCharts
   } = app.components;
@@ -41,12 +42,17 @@ window.EnergyApp = window.EnergyApp || {};
     renderCharts(data);
     attachEnergyQuery(data.energyRecords);
 
+    async function refreshRealtime() {
+      const realtime = await app.energyService.getRealtimeData(data.realtime);
+      updateLivePower(realtime);
+      data.realtime = realtime;
+    }
+
+    attachPlugControl(refreshRealtime);
+
     window.addEventListener("resize", () => renderCharts(data));
 
-    setInterval(async () => {
-      const realtime = await app.energyService.getRealtimeData();
-      updateLivePower(realtime);
-    }, app.config.refreshIntervalMs);
+    setInterval(refreshRealtime, app.config.refreshIntervalMs);
   } catch (error) {
     root.innerHTML = `
       <main class="app">

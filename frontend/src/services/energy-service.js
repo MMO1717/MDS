@@ -67,16 +67,69 @@ window.EnergyApp = window.EnergyApp || {};
     }
 
     const jsonGroup = await loadJsonGroup();
+    const dashboard = app.dataAdapter.buildDashboardData(jsonGroup, app.config.defaultDormId);
+    dashboard.realtime = await getRealtimeData(dashboard.realtime);
+    return dashboard;
+  }
+
+  async function getRealtimeData(fallbackRealtime) {
+    const fallback = fallbackRealtime || (await getDashboardDataWithoutPlug()).realtime;
+
+    if (!app.config.plugMonitorEnabled) {
+      return fallback;
+    }
+
+    try {
+      const monitor = await request(app.config.plugMonitorUrl);
+      return normalizePlugMonitor(monitor, fallback);
+    } catch (error) {
+      console.warn("智能插座实时接口不可用，已使用模拟数据。", error);
+      return fallback;
+    }
+  }
+
+  async function setPlugSwitch(on) {
+    const url = on ? app.config.plugOnUrl : app.config.plugOffUrl;
+    const response = await fetch(url, { method: "POST" });
+    if (!response.ok) {
+      throw new Error(`插座控制失败：${response.status}`);
+    }
+    return response.json();
+  }
+
+  async function getDashboardDataWithoutPlug() {
+    if (app.config.dataMode === "demoMock") {
+      return clone(app.demoData);
+    }
+
+    const jsonGroup = await loadJsonGroup();
     return app.dataAdapter.buildDashboardData(jsonGroup, app.config.defaultDormId);
   }
 
-  async function getRealtimeData() {
-    const dashboard = await getDashboardData();
-    return dashboard.realtime;
+  function normalizePlugMonitor(monitor, fallback) {
+    const power = Number(monitor.power || 0);
+    const status = monitor.abnormalStatus
+      ? monitor.abnormalType || "异常"
+      : monitor.switchOn
+        ? "正常"
+        : "关闭";
+
+    return {
+      ...fallback,
+      room: monitor.dormId || fallback.room,
+      power,
+      voltage: monitor.voltage,
+      current: monitor.current,
+      totalUsage: monitor.energy,
+      loadRate: Math.min(100, Math.round((power / 1250) * 100)),
+      switchOn: Boolean(monitor.switchOn),
+      status
+    };
   }
 
   app.energyService = {
     getDashboardData,
-    getRealtimeData
+    getRealtimeData,
+    setPlugSwitch
   };
 })(window.EnergyApp);

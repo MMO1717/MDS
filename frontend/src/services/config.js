@@ -8,6 +8,10 @@ window.EnergyApp.config = {
   dataMode: "staticJson",
   defaultDormId: "A101",
   apiBaseUrl: "http://localhost:5000",
+  plugMonitorEnabled: true,
+  plugMonitorUrl: "http://localhost:8080/api/plug/monitor",
+  plugOnUrl: "http://localhost:8080/api/plug/on",
+  plugOffUrl: "http://localhost:8080/api/plug/off",
   endpoints: {
     energyDetail: "../algorithm/算法端输出/dorm_energy_data.json",
     abnormalRecords: "../algorithm/算法端输出/abnormal_list.json",

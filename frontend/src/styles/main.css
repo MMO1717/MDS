@@ -310,6 +310,42 @@ h2 {
   font-size: 13px;
 }
 
+.plug-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 18px;
+}
+
+.plug-toggle {
+  height: 40px;
+  padding: 0 18px;
+  border: 0;
+  border-radius: 8px;
+  color: #ffffff;
+  background: var(--blue);
+  box-shadow: 0 10px 22px rgba(28, 105, 212, 0.22);
+  font-size: 14px;
+  font-weight: 760;
+  cursor: pointer;
+}
+
+.plug-toggle.is-on {
+  background: #d94f3d;
+  box-shadow: 0 10px 22px rgba(217, 79, 61, 0.2);
+}
+
+.plug-toggle:disabled {
+  cursor: wait;
+  opacity: 0.65;
+}
+
+.plug-actions span {
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .gauge {
   width: 210px;
   aspect-ratio: 1;
