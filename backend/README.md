@@ -77,3 +77,35 @@ GET /api/teacher/dorms/A101
 GET /api/teacher/predictions?risk_level=高
 GET /api/teacher/rankings/energy?limit=10
 ```
+
+## 智能插座接口
+
+当前后端已合并学生端的 Tuya 智能插座接入能力。前端不要直接调用 Tuya 云 API，而是调用本地 Spring Boot 后端。
+
+运行前需要配置环境变量：
+
+```text
+TUYA_ACCESS_ID=你的 Tuya Access ID
+TUYA_ACCESS_SECRET=你的 Tuya Access Secret
+```
+
+设备配置位于：
+
+```text
+src/main/resources/application.properties
+```
+
+当前插座接口：
+
+| 接口 | 说明 |
+| --- | --- |
+| `GET /api/plug/status` | 返回 Tuya 原始设备属性 |
+| `GET /api/plug/monitor` | 返回系统统一格式的实时功率、电压、电流、电量和风险判断 |
+| `POST /api/plug/on` | 打开智能插座 |
+| `POST /api/plug/off` | 关闭智能插座 |
+
+测试地址：
+
+```text
+http://localhost:8080/api/plug/monitor
+```
