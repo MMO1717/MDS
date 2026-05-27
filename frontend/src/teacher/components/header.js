@@ -1,4 +1,4 @@
-window.EnergyTeacher = window.EnergyTeacher || {};
+﻿window.EnergyTeacher = window.EnergyTeacher || {};
 window.EnergyTeacher.components = window.EnergyTeacher.components || {};
 
 window.EnergyTeacher.components.Header = function Header() {
@@ -19,9 +19,11 @@ window.EnergyTeacher.components.Header = function Header() {
       <nav class="nav-links" aria-label="页面导航">
         <a href="#overview" class="active">管理概览</a>
         <a href="#floors">楼层负载</a>
+        <a href="#plug">真实插座</a>
         <a href="#alerts">异常报警</a>
         <a href="#predictions">高峰预测</a>
         <a href="#suggestions">节能建议</a>
+        <a href="#records">明细查询</a>
       </nav>
 
       <div class="top-actions">
@@ -39,3 +41,5 @@ window.EnergyTeacher.components.setApiStatus = function setApiStatus(online, tex
   status.classList.toggle("online", online);
   status.classList.toggle("offline", !online);
 };
+
+

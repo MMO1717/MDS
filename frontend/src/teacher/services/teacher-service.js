@@ -1,12 +1,12 @@
-window.EnergyTeacher = window.EnergyTeacher || {};
+﻿window.EnergyTeacher = window.EnergyTeacher || {};
 
 (function registerTeacherService(app) {
   function buildUrl(path) {
     return `${app.config.apiBaseUrl}${path}`;
   }
 
-  async function request(path) {
-    const response = await fetch(buildUrl(path));
+  async function request(path, options = {}) {
+    const response = await fetch(buildUrl(path), options);
     if (!response.ok) {
       throw new Error(`接口请求失败：${response.status}`);
     }
@@ -26,6 +26,21 @@ window.EnergyTeacher = window.EnergyTeacher || {};
     return `/api/teacher/abnormal?${params.toString()}`;
   }
 
+  function buildDormQuery(filters = {}) {
+    const params = new URLSearchParams({
+      page: "1",
+      page_size: "30"
+    });
+
+    if (filters.dormId) params.set("dorm_id", filters.dormId);
+    if (filters.floor) params.set("floor", filters.floor);
+    if (filters.riskLevel) params.set("risk_level", filters.riskLevel);
+    if (filters.startTime) params.set("start_time", filters.startTime);
+    if (filters.endTime) params.set("end_time", filters.endTime);
+
+    return `/api/teacher/dorms?${params.toString()}`;
+  }
+
   app.teacherService = {
     getDashboard() {
       return request("/api/teacher/dashboard?limit=10");
@@ -33,11 +48,20 @@ window.EnergyTeacher = window.EnergyTeacher || {};
     getAbnormalRecords(filters) {
       return request(buildAbnormalQuery(filters));
     },
+    getDormRecords(filters) {
+      return request(buildDormQuery(filters));
+    },
     getHighRiskPredictions() {
       return request("/api/teacher/predictions?risk_level=高&page=1&page_size=8");
     },
     getSuggestions() {
       return request("/api/teacher/suggestions?page=1&page_size=8");
+    },
+    getPlugMonitor() {
+      return request("/api/plug/monitor");
+    },
+    setPlugSwitch(on) {
+      return request(on ? "/api/plug/on" : "/api/plug/off", { method: "POST" });
     }
   };
 })(window.EnergyTeacher);

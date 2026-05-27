@@ -1,4 +1,4 @@
-# Frontend - Teacher Page
+﻿# Frontend - Teacher Page
 
 本目录是宿舍能源协同管理系统的教师端 / 后勤管理端前端页面。
 
@@ -15,7 +15,7 @@
 先启动教师端后端：
 
 ```powershell
-cd "C:\Users\Sansuf\Desktop\学校资料\创新创业\MDS\backend"
+cd "C:\Users\Sansuf\Desktop\school information\chuangXin\MDS\backend"
 mvn spring-boot:run
 ```
 
@@ -42,10 +42,12 @@ frontend/src/teacher/services/config.js
 - 教师端首页统计卡片
 - 当前楼层负载状态
 - 宿舍累计能耗排行
+- 真实插座实时监控与开关控制
 - 异常宿舍报警表
 - 按楼层、风险等级、异常类型筛选
 - 高峰负载预测
 - 节能建议列表
+- 宿舍用电明细查询
 
 ## 对接接口
 
@@ -55,5 +57,9 @@ frontend/src/teacher/services/config.js
 - `GET /api/teacher/abnormal`
 - `GET /api/teacher/predictions`
 - `GET /api/teacher/suggestions`
+- `GET /api/teacher/dorms`
+- `GET /api/plug/monitor`
+- `POST /api/plug/on`
+- `POST /api/plug/off`
 
 后端由 `backend` 目录下的 Spring Boot 服务提供。
